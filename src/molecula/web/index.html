@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="ru" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Молекула — прогноз индекса селективности</title>
+<meta name="description" content="Прогноз индекса селективности SI = CC50/IC50 против вируса осповакцины по структуре молекулы.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3Crect%20width='24'%20height='24'%20rx='7'%20fill='%23090909'/%3E%3Cg%20fill='%23ffffff'%3E%3Ccircle%20cx='12'%20cy='12.6'%20r='2.4'/%3E%3Ccircle%20cx='12'%20cy='5.4'%20r='1.8'/%3E%3Ccircle%20cx='6'%20cy='16.4'%20r='1.8'/%3E%3Ccircle%20cx='18'%20cy='16.4'%20r='1.8'/%3E%3C/g%3E%3C/svg%3E">
+<script>
+/* Тема и состояние меню — до первой отрисовки, чтобы не было белой вспышки. */
+(function () {
+  var root = document.documentElement;
+  try {
+    var theme = localStorage.getItem('molecula.theme');
+    if (theme !== 'light' && theme !== 'dark') {
+      theme = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    root.setAttribute('data-theme', theme);
+    if (localStorage.getItem('molecula.sidebar') === 'collapsed') {
+      root.setAttribute('data-sidebar', 'collapsed');
+    }
+  } catch (e) {
+    root.setAttribute('data-theme', 'light');
+  }
+})();
+</script>
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Перейти к содержимому</a>
+
+<div class="app">
+  <div class="scrim" id="scrim" hidden></div>
+
+  <aside class="sidebar" id="sidebar" aria-label="Разделы сервиса">
+    <div class="sidebar__head">
+      <span class="brand" aria-label="Молекула">
+        <svg class="brand__mark" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <rect class="brand__plate" width="24" height="24" rx="7"></rect>
+          <g class="brand__mol">
+            <path d="M12 12.6 L12 5.4 M12 12.6 L6 16.4 M12 12.6 L18 16.4"></path>
+            <circle cx="12" cy="12.6" r="2.4"></circle>
+            <circle cx="12" cy="5.4" r="1.8"></circle>
+            <circle cx="6" cy="16.4" r="1.8"></circle>
+            <circle cx="18" cy="16.4" r="1.8"></circle>
+          </g>
+        </svg>
+        <span class="brand__word">Молекула</span>
+      </span>
+      <button class="icon-btn sidebar__toggle" id="sidebarToggle" type="button" aria-label="Свернуть меню" title="Свернуть меню" aria-controls="sidebar" aria-expanded="true">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" class="ico">
+          <rect x="3.2" y="4.2" width="17.6" height="15.6" rx="3.4"></rect>
+          <path d="M9.6 4.2 L9.6 19.8"></path>
+        </svg>
+      </button>
+    </div>
+
+    <nav class="nav" aria-label="Основные разделы">
+      <button class="nav__item is-active" type="button" data-screen="analysis" title="Анализ">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" class="ico">
+          <path d="M10 3.2 L10 9 L4.9 17.4 A2.4 2.4 0 0 0 7 21 L17 21 A2.4 2.4 0 0 0 19.1 17.4 L14 9 L14 3.2"></path>
+          <path d="M8.6 3.2 L15.4 3.2"></path>
+          <path d="M7.4 14.4 L16.6 14.4"></path>
+        </svg>
+        <span class="nav__label">Анализ</span>
+      </button>
+      <button class="nav__item" type="button" data-screen="batch" title="Пакетный расчёт">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" class="ico">
+          <rect x="3.2" y="4.4" width="17.6" height="15.2" rx="3"></rect>
+          <path d="M3.2 9.4 L20.8 9.4 M3.2 14.6 L20.8 14.6 M9 9.4 L9 19.6"></path>
+        </svg>
+        <span class="nav__label">Пакетный расчёт</span>
+      </button>
+      <button class="nav__item" type="button" data-screen="data" title="Данные и модель">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" class="ico">
+          <ellipse cx="12" cy="6.2" rx="7.6" ry="3"></ellipse>
+          <path d="M4.4 6.2 L4.4 17.8 C4.4 19.5 7.8 20.8 12 20.8 C16.2 20.8 19.6 19.5 19.6 17.8 L19.6 6.2"></path>
+          <path d="M4.4 12 C4.4 13.7 7.8 15 12 15 C16.2 15 19.6 13.7 19.6 12"></path>
+        </svg>
+        <span class="nav__label">Данные и модель</span>
+      </button>
+      <button class="nav__item" type="button" data-screen="worklist" title="Подборка">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" class="ico">
+          <path d="M6.4 3.8 L17.6 3.8 A1.4 1.4 0 0 1 19 5.2 L19 20.2 L12 16.1 L5 20.2 L5 5.2 A1.4 1.4 0 0 1 6.4 3.8 Z"></path>
+        </svg>
+        <span class="nav__label">Подборка</span>
+        <span class="nav__count" id="worklistCount" hidden>0</span>
+      </button>
+    </nav>
+
+    <div class="sidebar__foot">
+      <div class="theme-switch" role="group" aria-label="Тема оформления">
+        <button class="theme-switch__btn" type="button" data-theme-value="light" title="Светлая тема" aria-label="Светлая тема">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" class="ico">
+            <circle cx="12" cy="12" r="4.2"></circle>
+            <path d="M12 2.8 L12 5 M12 19 L12 21.2 M2.8 12 L5 12 M19 12 L21.2 12 M5.5 5.5 L7 7 M17 17 L18.5 18.5 M18.5 5.5 L17 7 M7 17 L5.5 18.5"></path>
+          </svg>
+          <span class="theme-switch__label">Светлая</span>
+        </button>
+        <button class="theme-switch__btn" type="button" data-theme-value="dark" title="Тёмная тема" aria-label="Тёмная тема">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" class="ico">
+            <path d="M20 14.2 A8.6 8.6 0 0 1 9.8 4 A8.4 8.4 0 1 0 20 14.2 Z"></path>
+          </svg>
+          <span class="theme-switch__label">Тёмная</span>
+        </button>
+      </div>
+      <p class="sidebar__status" id="serviceStatus" title="Состояние модели">
+        <span class="dot dot--wait" id="serviceDot" aria-hidden="true"></span>
+        <span class="sidebar__status-text" id="serviceText">Проверяем модель…</span>
+      </p>
+    </div>
+  </aside>
+
+  <main class="main" id="main" tabindex="-1">
+    <header class="topbar">
+      <button class="icon-btn topbar__menu" id="menuBtn" type="button" aria-label="Открыть меню" title="Меню" aria-controls="sidebar" aria-expanded="false">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" class="ico">
+          <path d="M4 7 L20 7 M4 12 L20 12 M4 17 L20 17"></path>
+        </svg>
+      </button>
+      <div class="topbar__text">
+        <h1 class="topbar__title" id="screenTitle">Анализ</h1>
+        <p class="topbar__note">Сервис показывает прогноз модели, а не доказанную эффективность лекарства.</p>
+      </div>
+    </header>
+
+    <div class="screens">
+
+      <!-- ─────────────── Анализ ─────────────── -->
+      <section class="screen is-active" id="screen-analysis" aria-labelledby="screenTitle">
+        <div class="stack">
+
+          <div class="card">
+            <div class="seg" role="group" aria-label="Способ ввода">
+              <button class="seg__btn is-active" type="button" data-input-mode="single">Одна молекула</button>
+              <button class="seg__btn" type="button" data-input-mode="csv">Файл CSV</button>
+            </div>
+
+            <div class="field">
+              <label class="field__label" for="smilesInput">SMILES молекулы</label>
+              <textarea class="input input--mono" id="smilesInput" rows="2" spellcheck="false" autocapitalize="off" autocorrect="off" placeholder="Например: NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O"></textarea>
+              <p class="field__msg" id="smilesError" role="alert"></p>
+            </div>
+
+            <div class="field__row">
+              <button class="btn btn--primary" id="runSingle" type="button">Рассчитать</button>
+              <button class="btn btn--ghost" id="clearSingle" type="button">Очистить</button>
+            </div>
+
+            <div class="examples">
+              <span class="examples__label">Примеры:</span>
+              <button class="chip" type="button" data-example="NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O" title="Нуклеозид аденозин">Аденозин</button>
+              <button class="chip" type="button" data-example="CC1=CN([C@H]2C[C@H](O)[C@@H](CO)O2)C(=O)NC1=O" title="Нуклеозид тимидин">Тимидин</button>
+              <button class="chip" type="button" data-example="OC[C@H]1O[C@@H](N2C=NC3=C2N=C(N)NC3=O)C=C1" title="Аналог гуанозина (d4G)">Аналог гуанозина</button>
+              <button class="chip" type="button" data-example="CC(=O)OC1=CC=CC=C1C(O)=O" title="Ацетилсалициловая кислота — молекула, далёкая от обучающих данных">Аспирин</button>
+            </div>
+          </div>
+
+          <div class="panel panel--result" id="singleResult" data-state="empty" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <!-- ─────────────── Пакетный расчёт ─────────────── -->
+      <section class="screen" id="screen-batch" hidden>
+        <div class="stack">
+
+          <div class="card">
+            <div class="dropzone" id="dropzone" tabindex="0" role="button" aria-label="Загрузить файл CSV: перетащите файл или нажмите, чтобы выбрать">
+              <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" class="ico dropzone__ico">
+                <path d="M12 16.2 L12 4.6 M7.8 8.6 L12 4.4 L16.2 8.6"></path>
+                <path d="M4.2 14.8 L4.2 18 A1.8 1.8 0 0 0 6 19.8 L18 19.8 A1.8 1.8 0 0 0 19.8 18 L19.8 14.8"></path>
+              </svg>
+              <span class="dropzone__title">Перетащите CSV или выберите файл</span>
+              <span class="dropzone__hint">Нужен столбец SMILES; столбец с идентификатором — если он есть. До 2000 строк, до 8 МБ.</span>
+              <input type="file" id="fileInput" accept=".csv,text/csv,text/plain" hidden>
+            </div>
+
+            <div class="or"><span>или</span></div>
+
+            <div class="field">
+              <label class="field__label" for="batchText">Список SMILES, по одной строке</label>
+              <textarea class="input input--mono" id="batchText" rows="5" spellcheck="false" autocapitalize="off" autocorrect="off" placeholder="CC(=O)OC1=CC=CC=C1C(O)=O&#10;NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O"></textarea>
+              <p class="field__msg" id="batchError" role="alert"></p>
+            </div>
+
+            <div class="field__row">
+              <button class="btn btn--primary" id="runBatch" type="button">Рассчитать</button>
+              <button class="btn btn--ghost" id="clearBatch" type="button">Очистить</button>
+              <span class="hint" id="batchSource"></span>
+            </div>
+          </div>
+
+          <div class="panel" id="batchPanel" data-state="empty" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <!-- ─────────────── Данные и модель ─────────────── -->
+      <section class="screen" id="screen-data" hidden>
+        <div class="stack">
+          <div class="panel" id="dataPanel" data-state="empty" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <!-- ─────────────── Подборка ─────────────── -->
+      <section class="screen" id="screen-worklist" hidden>
+        <div class="stack">
+          <div class="panel" id="worklistPanel" data-state="empty" aria-live="polite"></div>
+        </div>
+      </section>
+
+    </div>
+  </main>
+</div>
+
+<dialog class="modal" id="compareModal" aria-labelledby="compareTitle">
+  <div class="modal__head">
+    <h2 class="modal__title" id="compareTitle">Сравнение кандидатов</h2>
+    <button class="icon-btn" type="button" id="compareClose" aria-label="Закрыть сравнение" title="Закрыть">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" class="ico"><path d="M6 6 L18 18 M18 6 L6 18"></path></svg>
+    </button>
+  </div>
+  <div class="modal__body" id="compareBody"></div>
+  <div class="modal__foot">
+    <p class="note note--inline">Прогноз SI — результат модели. Измеренные значения берутся только из публикаций по ближайшим молекулам.</p>
+    <button class="btn btn--primary" type="button" id="compareToWorklist">Добавить в подборку</button>
+  </div>
+</dialog>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script src="/static/app.js" defer></script>
+</body>
+</html>

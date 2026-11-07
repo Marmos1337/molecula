@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/chembl_cache/
+
+data/kaggle/
+
+.DS_Store
+data/raw/pubchem_cache/

@@ -1,0 +1,117 @@
+{
+  "model_version": "molecula-krr-tanimoto-log1p-smear-tuned-kaggle-train-v2-s42-v1.0.0",
+  "config": {
+    "seed": 42,
+    "train": "data/kaggle/train_v2.csv",
+    "chembl": "data/processed/dataset.csv",
+    "candidate": "krr-tanimoto-log1p-smear-tuned",
+    "target": "log1p-smear",
+    "features": "smiles",
+    "augmented": false,
+    "n_training_rows": 320,
+    "python_packages": {
+      "python": "3.12.14",
+      "rdkit": "2026.09.1",
+      "scikit-learn": "1.9.1",
+      "numpy": "2.5.4",
+      "pandas": "3.1.1"
+    }
+  },
+  "selected_candidate": "krr-tanimoto-log1p-smear-tuned",
+  "selection": "Выбран сравнением на одних и тех же фолдах (molecula.experiments), метрика — MSE против сырого SI, как на Kaggle.",
+  "cross_validation": {
+    "cluster": {
+      "mse_mean": 4177179.0742801754,
+      "mse_sd": 8259169.539367674,
+      "rmse_log10_mean": 1.628951004471934,
+      "mae_mean": 256.4629392881138,
+      "spearman_mean": 0.455860075426667
+    },
+    "molecule": {
+      "mse_mean": 4244100.358663323,
+      "mse_sd": 8094037.412152839,
+      "rmse_log10_mean": 1.5099833520814236,
+      "mae_mean": 281.51956336392203,
+      "spearman_mean": 0.6327393248682399
+    },
+    "publication": {
+      "mse_mean": 4252955.993010954,
+      "mse_sd": 8322969.73905897,
+      "rmse_log10_mean": 1.7051646281240844,
+      "mae_mean": 261.40385494618334,
+      "spearman_mean": 0.23934656788682526
+    },
+    "scaffold": {
+      "mse_mean": 4167140.1020354494,
+      "mse_sd": 8238876.662119924,
+      "rmse_log10_mean": 1.5834218916184422,
+      "mae_mean": 250.5563677764991,
+      "spearman_mean": 0.5094241667590406
+    }
+  },
+  "best_on_molecule_scheme": "krr-tanimoto-log1p-smear",
+  "versus_constant_zero": {
+    "cluster": {
+      "mean_delta_mse": -123065.33824024076,
+      "sd_delta_mse": 173896.81744575163,
+      "fits_better": 10,
+      "fits": 15
+    },
+    "molecule": {
+      "mean_delta_mse": -56144.053857092826,
+      "sd_delta_mse": 378230.889076146,
+      "fits_better": 8,
+      "fits": 15
+    },
+    "publication": {
+      "mean_delta_mse": -47288.41950946346,
+      "sd_delta_mse": 80897.3499939465,
+      "fits_better": 9,
+      "fits": 15
+    },
+    "scaffold": {
+      "mean_delta_mse": -133104.31048496685,
+      "sd_delta_mse": 143947.73507512527,
+      "fits_better": 12,
+      "fits": 15
+    }
+  },
+  "applicability_domain": {
+    "indicator": "максимальное сходство Танимото с обучающим набором (Morgan, радиус 2, 2048 бит)",
+    "threshold": 0.35,
+    "n_points": 320,
+    "share_below_threshold": 0.128125,
+    "spearman_similarity_vs_abs_log_error": 0.19898410462810345,
+    "spearman_p_value": 0.0003416453885483267,
+    "median_abs_log10_error_inside": 1.25203523522141,
+    "median_abs_log10_error_outside": 0.9422584631443156,
+    "separates_error": false
+  },
+  "error_analysis_scheme": "molecule",
+  "versus_constant_zero_by_molecule": {
+    "cluster": {
+      "molecules": 312,
+      "molecules_better": 46,
+      "mean_delta_squared_error": -127262.10027293723,
+      "wilcoxon_p_descriptive": 3.1858915614453327e-19
+    },
+    "molecule": {
+      "molecules": 312,
+      "molecules_better": 48,
+      "mean_delta_squared_error": -71282.25509958922,
+      "wilcoxon_p_descriptive": 1.2364987235748011e-17
+    },
+    "publication": {
+      "molecules": 312,
+      "molecules_better": 52,
+      "mean_delta_squared_error": -52470.54033311848,
+      "wilcoxon_p_descriptive": 1.4348221308543675e-18
+    },
+    "scaffold": {
+      "molecules": 312,
+      "molecules_better": 55,
+      "mean_delta_squared_error": -139967.4705824123,
+      "wilcoxon_p_descriptive": 2.5253070592273594e-15
+    }
+  }
+}

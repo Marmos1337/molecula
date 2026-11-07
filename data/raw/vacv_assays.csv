@@ -1,0 +1,847 @@
+assay_chembl_id,document_chembl_id,assay_cell_type,assay_organism,assay_description,assay_type
+CHEMBL659336,CHEMBL1127016,CV-1,Orthopoxvirus vaccinia,Anti viral activity against vaccinia virus in CV-1 (monkey kidney) cells at 1 uM.,F
+CHEMBL659337,CHEMBL1127016,CV-1,Orthopoxvirus vaccinia,Anti viral activity against vaccinia virus in CV-1 (monkey kidney) cells.,F
+CHEMBL672035,CHEMBL1127471,E6SM,Orthopoxvirus vaccinia,The minimum inhibitory concentration was measured on E6SM cells against Vaccinia virus,F
+CHEMBL674923,CHEMBL1132160,,Orthopoxvirus vaccinia,Inhibitory activity against vaccinia virus (VV),F
+CHEMBL674924,CHEMBL1132160,,Orthopoxvirus vaccinia,Inhibitory activity against vaccinia virus (VV).,F
+CHEMBL677523,CHEMBL1130289,E6SM,Orthopoxvirus vaccinia,Concentration required to inhibit Vaccinia induced cytopathicity in E6SM cells by 50%,F
+CHEMBL677528,CHEMBL1129435,E6SM,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus (VV) in E6SM cell culture,F
+CHEMBL679241,CHEMBL1130336,E6SM,Orthopoxvirus vaccinia,Concentration required to reduce vaccinia virus-inducted cytopathicity by 50% (E6SM cells),F
+CHEMBL676345,CHEMBL1127647,,Orthopoxvirus vaccinia,Minimum inhibitory concentration required for antiviral activity to reduce Vaccinia virus (VV) induced cytopathicity in human embryonic skin-muscle cells (ESM),F
+CHEMBL684345,CHEMBL1124324,,Orthopoxvirus vaccinia,Inhibition of compound against Guanine-7-methyl transferase,B
+CHEMBL686413,CHEMBL1129609,HEF,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus infected HEF cell lines.,F
+CHEMBL756840,CHEMBL1123109,PRK,Orthopoxvirus vaccinia,Inhibition of Vaccinia virus induced cytopathicity in in PRK cells.,F
+CHEMBL765387,CHEMBL1124462,kidney,Orthopoxvirus vaccinia,Minimum inhibitory concentration required to reduce vaccinia virus induced cytopathogenicity by 50% in primary rabbit kidney cells (PRK),F
+CHEMBL816371,CHEMBL1124149,PRK,Orthopoxvirus vaccinia,In vitro minimum inhibitory concentration to inhibit VV-induced cytopathogenicity in PRK cells by 50%,F
+CHEMBL816372,CHEMBL1126736,Fibroblast,Orthopoxvirus vaccinia,Inhibitory concentration against VV in human embryonic skin muscle (ESM) fibroblast cell culture,F
+CHEMBL816373,CHEMBL1134637,,Orthopoxvirus vaccinia,Minimal inhibitory concentration to reduce virus-induced cytopathicity against VV,F
+CHEMBL816374,CHEMBL1126604,,Orthopoxvirus vaccinia,Minimum inhibitory concentration required to reduce vaccinia virus (VV) virus-induced cytopathicity by 50%,F
+CHEMBL816375,CHEMBL1126217,,Orthopoxvirus vaccinia,Inhibitory activity against Vaccinia virus(VV) at a concentration 400 ug/mL; not effective,F
+CHEMBL816376,CHEMBL1126217,,Orthopoxvirus vaccinia,Inhibitory activity against Vaccinia virus(VV)at a concentration 400 ug/mL; not effective,F
+CHEMBL818722,CHEMBL1123400,Vero,Orthopoxvirus vaccinia,In vitro antiviral activity against vaccinia virus in Vero cells.,F
+CHEMBL821083,CHEMBL1121647,kidney,Orthopoxvirus vaccinia,Minimum inhibitory concentration required to reduce vaccinia virus-induced cytopathogenicity in primary rabbit kidney cell cultures,F
+CHEMBL821084,CHEMBL1126655,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus (CL strain),F
+CHEMBL821085,CHEMBL1123027,,Orthopoxvirus vaccinia,In vitro antiviral activity was tested against vaccinia virus(VV),F
+CHEMBL821086,CHEMBL1123027,,Orthopoxvirus vaccinia,In vitro antiviral activity was tested against vaccinia virus(VV) virus,F
+CHEMBL821087,CHEMBL1132137,,Orthopoxvirus vaccinia,Antiviral activity against the Vaccinia virus (DNA virus) at a concentration of 2 ug/mL was determined as Plaque forming unit/mL(PFU) by plaque assay,F
+CHEMBL821088,CHEMBL1132137,,Orthopoxvirus vaccinia,Antiviral activity against the Vaccinia virus (DNA virus) at a concentration of 2 ug/mL was determined as Plaque forming unit/mL(PFU) by plaque assay; ND-Not determined,F
+CHEMBL821089,CHEMBL1132137,,Orthopoxvirus vaccinia,Antiviral activity against the Vaccinia virus (DNA virus) at a concentration of 3 ug/mL was determined as Plaque forming unit/mL(PFU) by plaque assay; ND-Not determined,F
+CHEMBL821957,CHEMBL1132137,,Orthopoxvirus vaccinia,Antiviral activity against the Vaccinia virus (DNA virus) at a concentration of 4 ug/mL was determined as Plaque forming unit/mL(PFU) by plaque assay; ND-Not determined,F
+CHEMBL823645,CHEMBL1132137,,Orthopoxvirus vaccinia,Antiviral activity against the Vaccinia virus (DNA virus) at a concentration of 5 ug/mL was determined as Plaque forming unit/mL(PFU) by plaque assay,F
+CHEMBL823646,CHEMBL1132137,,Orthopoxvirus vaccinia,Antiviral activity against the Vaccinia virus (DNA virus) at a concentration of 5 ug/mL was determined as Plaque forming unit/mL(PFU) by plaque assay; ND-Not determined,F
+CHEMBL823647,CHEMBL1124827,,Orthopoxvirus vaccinia,Antiviral activity was determined against Vaccinia virus,F
+CHEMBL824278,CHEMBL1121821,,Orthopoxvirus vaccinia,Compound was tested for antiviral activity against vaccinia virus; little or no activity,F
+CHEMBL824279,CHEMBL1123958,,Orthopoxvirus vaccinia,Concentration required to reduce vaccinia virus induced cytopathogenicity in rabbit cell kidney culture,F
+CHEMBL824280,CHEMBL1122970,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus strain Elstree was evaluated in african green monkey kidney,F
+CHEMBL824281,CHEMBL1124988,,Orthopoxvirus vaccinia,Effective dose required for antiviral activity against Vaccinia virus,F
+CHEMBL883140,CHEMBL1122696,,Orthopoxvirus vaccinia,In vitro antiviral activity against Vaccinia virus,F
+CHEMBL824282,CHEMBL1122818,,Orthopoxvirus vaccinia,In vitro antiviral activity was tested against vaccinia virus (VV),F
+CHEMBL824283,CHEMBL1122818,,Orthopoxvirus vaccinia,"In vitro antiviral activity was tested against, vaccinia virus (VV)",F
+CHEMBL824284,CHEMBL1122818,,Orthopoxvirus vaccinia,"In vitro antiviral activity was tested against, vaccinia virus (VV); b=Too insoluble to test",F
+CHEMBL824423,CHEMBL1124205,,Orthopoxvirus vaccinia,Inhibition of vaccinia virus induced cytopathic effects in HEP -2 cells,F
+CHEMBL821328,CHEMBL1124205,,Orthopoxvirus vaccinia,Inhibition of vaccinia virus induced cytopathic effects in HEP -2 cells,F
+CHEMBL821329,CHEMBL1124198,L929,Orthopoxvirus vaccinia,Evaluated for 50% plaque inhibition of vaccinia virus replication in murine L929 cells,F
+CHEMBL821330,CHEMBL1122521,,Orthopoxvirus vaccinia,Concentration required to reduce cytopathogenicity of vaccinia virus by 50% in primary rabbit kidney (PRK) cells,F
+CHEMBL821331,CHEMBL1124192,,Orthopoxvirus vaccinia,Dose of compound required to inhibit the vaccinia lederle CA virus induced cytopathogenic effects,F
+CHEMBL821332,CHEMBL1124512,Vero,Orthopoxvirus vaccinia,Inhibitory dose against vaccinia viral strain Lederle CA in vero cell line,F
+CHEMBL821333,CHEMBL1124765,,Orthopoxvirus vaccinia,Evaluated for the minimum inhibitory concentration (MIC) in primary rabbit kidney (PRK) by 50% upon pre-incubation in medium containing 10% fetal calf serum at 37 degree Centigrade for 24 hr against Vaccinia virus,F
+CHEMBL821334,CHEMBL1124149,PRK,Orthopoxvirus vaccinia,In vitro minimum inhibitory concentration to inhibit VV-induced cytopathogenicity in PRK cells by 50%,F
+CHEMBL821335,CHEMBL1122513,,Orthopoxvirus vaccinia,Concentration required to inhibit vaccinia virus induced cytopathogenic affects by 50%,F
+CHEMBL821336,CHEMBL1123080,kidney,Orthopoxvirus vaccinia,Minimum inhibitory concentration (MIC) required to reduce vaccinia virus induced cytopathogenicity in primary rabbit kidney cell cultures,F
+CHEMBL821337,CHEMBL1123899,,Orthopoxvirus vaccinia,Minimum inhibitory concentration required to reduce vaccinia virus(VV) induced cytopathogenicity by 50%,F
+CHEMBL821338,CHEMBL1123099,,Orthopoxvirus vaccinia,The antiviral activity was evaluated in primary rabbit kidney(PRK) against Vaccinia virus,F
+CHEMBL818659,CHEMBL1124036,L929,Orthopoxvirus vaccinia,The minimum inhibitory concentration required for 50% inhibition of vaccinia virus induced cytopathogenic effect in L929 cells,F
+CHEMBL818660,CHEMBL1124036,L929,Orthopoxvirus vaccinia,The minimum inhibitory concentration required for 50% inhibition of vaccinia virus induced cytopathogenic effect in L929 cells; G indicates CPE reduction <50%,F
+CHEMBL818661,CHEMBL1124205,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus in HEP -2 cells,F
+CHEMBL821750,CHEMBL1124512,Vero,Orthopoxvirus vaccinia,Viral rating activity against vaccinia viral strain Lederle CA in vero cell line,F
+CHEMBL821892,CHEMBL1122513,kidney,Orthopoxvirus vaccinia,In vitro for antiviral activity in secondary cultures of rabbit kidney cells infected with vaccinia virus,F
+CHEMBL821893,CHEMBL1122625,,Orthopoxvirus vaccinia,In vitro antiviral activity (virus ratings (VR)) determined by comparing CPE development in drug-treated cells (T) and Vaccinia virus control cells,F
+CHEMBL824450,CHEMBL1124192,,Orthopoxvirus vaccinia,Degree of inhibition of virus-induced cytopathogenic effect and the degree of cytotoxicity produced by compound against vaccinia lederle CA virus,F
+CHEMBL824451,CHEMBL1122970,,Orthopoxvirus vaccinia,In vitro antiviral activity against Vaccinia virus strain Elstree was evaluated in african green monkey kidney,F
+CHEMBL824452,CHEMBL1124036,L929,Orthopoxvirus vaccinia,Virus rating on vaccinia virus measured as the degree of inhibition of virus induced cytopathogenic effect in L929 cells,F
+CHEMBL823658,CHEMBL1123080,kidney,Orthopoxvirus vaccinia,Minimum inhibitory concentration (MIC) required to reduce vaccinia virus induced cytopathogenicity in primary rabbit kidney cell cultures,F
+CHEMBL823659,CHEMBL1124664,,Orthopoxvirus vaccinia,Antiviral activity on the replication of vaccinia virus at 400 ug/mL.,F
+CHEMBL823660,CHEMBL1134025,,Orthopoxvirus vaccinia,Cytotoxicity was evaluated against Vaccinia virus at 200-400 uM; IA=inactive,F
+CHEMBL823661,CHEMBL1130322,,Orthopoxvirus vaccinia,50% effective concentration required to reduce vaccinia virus-induced cytopathicity,F
+CHEMBL823662,CHEMBL1132160,,Orthopoxvirus vaccinia,Compound was evaluated for inhibitory activity against vaccinia virus (VV); NA=not active,F
+CHEMBL823663,CHEMBL1123027,,Orthopoxvirus vaccinia,In vitro antiviral activity was tested against vaccinia virus(VV) virus,F
+CHEMBL823664,CHEMBL1136729,,Orthopoxvirus vaccinia,Inhibitory activity against vaccinia virus,F
+CHEMBL881122,CHEMBL1147452,Vero,Orthopoxvirus vaccinia,Inhibitory concentration required against vaccinia virus in Vero cell culture,F
+CHEMBL823665,CHEMBL1123381,,Orthopoxvirus vaccinia,The compound was tested for inhibitory activity against vaccinia virus replication,F
+CHEMBL823666,CHEMBL1123381,,Orthopoxvirus vaccinia,The compound was tested for inhibitory activity against vaccinia virus replication; NA=Not active,F
+CHEMBL823667,CHEMBL1122756,,Orthopoxvirus vaccinia,Compound was evaluated for antiviral activity against vaccinia,F
+CHEMBL823668,CHEMBL1122756,,Orthopoxvirus vaccinia,Compound was evaluated for its antiviral activity against vaccinia,F
+CHEMBL823669,CHEMBL1124666,HeLa,Orthopoxvirus vaccinia,Minimum cytotoxic concentration against HeLa cell cultures,F
+CHEMBL823670,CHEMBL1124666,Vero,Orthopoxvirus vaccinia,Minimum cytotoxic concentration against Vero cell cultures,F
+CHEMBL823671,CHEMBL1124666,,Orthopoxvirus vaccinia,Minimum cytotoxic concentration against embryonic skin muscle cell cultures,F
+CHEMBL823672,CHEMBL1124666,kidney,Orthopoxvirus vaccinia,Minimum cytotoxic concentration against primary rabbit kidney cell cultures,F
+CHEMBL823673,CHEMBL1124666,,Orthopoxvirus vaccinia,Minimum cytotoxic concentration against vaccinia virus against embryonic skin muscle cell cultures,F
+CHEMBL823674,CHEMBL1124666,,Orthopoxvirus vaccinia,Minimum cytotoxic concentration against vaccinia virus embryonic skin muscle cell cultures,F
+CHEMBL823675,CHEMBL1124666,HeLa,Orthopoxvirus vaccinia,Minimum cytotoxic concentration against vaccinia virus in HeLa cell cultures,F
+CHEMBL823676,CHEMBL1124666,Vero,Orthopoxvirus vaccinia,Minimum cytotoxic concentration against vaccinia virus in Vero cell cultures,F
+CHEMBL823677,CHEMBL1124666,kidney,Orthopoxvirus vaccinia,Minimum cytotoxic concentration against vaccinia virus in primary rabbit kidney cell cultures,F
+CHEMBL881123,CHEMBL1124666,kidney,Orthopoxvirus vaccinia,Minimum cytotoxic concentration against vaccinia virus in primary rabbit kidney cell cultures,F
+CHEMBL823678,CHEMBL1123547,kidney,Orthopoxvirus vaccinia,Evaluation for antiviral activity against vaccinia virus in primary rabbit kidney cell culture,F
+CHEMBL823679,CHEMBL1123152,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus,F
+CHEMBL823680,CHEMBL1122693,kidney,Orthopoxvirus vaccinia,Compound was tested for antiviral activity against vaccinia virus in primary rabbit kidney cells,F
+CHEMBL823681,CHEMBL1136374,,Orthopoxvirus vaccinia,Cytopathogenicity against vaccinia virus,F
+CHEMBL823682,CHEMBL1125081,kidney,Orthopoxvirus vaccinia,Evaluated for minimum inhibitory concentration against Vaccinia virus (VV) in primary rabbit kidney cells,F
+CHEMBL823683,CHEMBL1124765,,Orthopoxvirus vaccinia,Evaluated for the minimum inhibitory concentration (MIC) in primary rabbit kidney (PRK) by 50% against Vaccinia virus,F
+CHEMBL823684,CHEMBL1124765,,Orthopoxvirus vaccinia,Evaluated for the minimum inhibitory concentration (MIC) in primary rabbit kidney (PRK) by 50% against vaccinia virus,F
+CHEMBL823685,CHEMBL1124666,,Orthopoxvirus vaccinia,Minimum inhibitory concentration against vaccinia virus embryonic skin muscle cell cultures,F
+CHEMBL823686,CHEMBL1124666,,Orthopoxvirus vaccinia,Minimum inhibitory concentration against vaccinia virus embryonic skin muscle cell cultures,F
+CHEMBL823687,CHEMBL1124666,HeLa,Orthopoxvirus vaccinia,Minimum inhibitory concentration against vaccinia virus in HeLa cell cultures,F
+CHEMBL823688,CHEMBL1124666,Vero,Orthopoxvirus vaccinia,Minimum inhibitory concentration against vaccinia virus in Vero cell cultures of experiment 1,F
+CHEMBL823689,CHEMBL1124666,Vero,Orthopoxvirus vaccinia,Minimum inhibitory concentration against vaccinia virus in Vero cell cultures of experiment 2,F
+CHEMBL823690,CHEMBL1124666,kidney,Orthopoxvirus vaccinia,Minimum inhibitory concentration against vaccinia virus in primary rabbit kidney cell cultures of experiment 1,F
+CHEMBL823691,CHEMBL1124666,kidney,Orthopoxvirus vaccinia,Minimum inhibitory concentration against vaccinia virus in primary rabbit kidney cell cultures of experiment 2,F
+CHEMBL857009,CHEMBL1124666,kidney,Orthopoxvirus vaccinia,Minimum inhibitory concentration against vaccinia virus in primary rabbit kidney cell cultures of experiment 2,F
+CHEMBL816926,CHEMBL1124666,,Orthopoxvirus vaccinia,Minimum inhibitory concentration against Vaccinia virus,F
+CHEMBL816927,CHEMBL1134025,,Orthopoxvirus vaccinia,Minimum inhibitory concentration required to reduce Vaccinia virus induced cytopathogenicity by 50%,F
+CHEMBL816928,CHEMBL1124029,kidney,Orthopoxvirus vaccinia,Minimum inhibitory concentration required to reduce virus induced cytopathogenicity by 50% against vaccinia virus in rabbit primary kidney cell cultures,F
+CHEMBL816929,CHEMBL1122552,kidney,Orthopoxvirus vaccinia,The minimum inhibitory concentration required to reduce vaccinia virus induced cytopathogenicity in primary rabbit kidney cells by 50%,F
+CHEMBL816930,CHEMBL1123311,,Orthopoxvirus vaccinia,Evaluation of antiviral activity against Vaccinia virus,F
+CHEMBL816931,CHEMBL1123153,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus,F
+CHEMBL816932,CHEMBL1123080,kidney,Orthopoxvirus vaccinia,Minimum inhibitory concentration (MIC) required to reduce vaccinia virus induced cytopathogenicity in primary rabbit kidney cell cultures,F
+CHEMBL816933,CHEMBL1123904,,Orthopoxvirus vaccinia,"In vitro antiviral activity Virus rating (VR) determined by comparing CPE development in drug-treated cells (T) and virus control cells (C) against, Vaccinia virus",F
+CHEMBL816934,CHEMBL1126742,,Orthopoxvirus vaccinia,Minimum inhibitory concentration against vaccinia virus,F
+CHEMBL816935,CHEMBL1124765,,Orthopoxvirus vaccinia,"Evaluated for the minimum inhibitory concentration (MIC) in primary rabbit kidney (PRK), by 50% upon preincubation in medium containing 10% fetal calf serum at 37 degree Celsius for 24 hr against Vaccinia virus",F
+CHEMBL816936,CHEMBL1126217,,Orthopoxvirus vaccinia,Inhibitory activity towards Vaccinia virus(VV),F
+CHEMBL816937,CHEMBL1122461,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL844773,CHEMBL1124622,kidney,Orthopoxvirus vaccinia,Minimum inhibitory concentration against Vaccinia virus in primary rabbit kidney cell cultures,F
+CHEMBL844143,CHEMBL1123027,,Orthopoxvirus vaccinia,In vitro antiviral activity was tested against vaccinia virus(VV),F
+CHEMBL844144,CHEMBL1125541,,Orthopoxvirus vaccinia,Compound was tested in vitro for antiviral activity against vaccinia virus (Concentration required for the 50%inhibition of virus-induced cell death),F
+CHEMBL847543,CHEMBL1136729,,Orthopoxvirus vaccinia,Inhibitory activity against vaccinia virus,F
+CHEMBL847544,CHEMBL1135471,,Orthopoxvirus vaccinia,"Activity against vaccinia virus, was determined; No activity",F
+CHEMBL847545,CHEMBL1135471,,Orthopoxvirus vaccinia,"Minimum cytotoxic concentration against vaccinia virus, was determined",F
+CHEMBL847546,CHEMBL1122581,kidney,Orthopoxvirus vaccinia,Compound was tested for the concentration required to reduce vaccinia virus induced cytopathogenicity by 50% in primary rabbit kidney cell cultures,F
+CHEMBL847547,CHEMBL1122581,kidney,Orthopoxvirus vaccinia,Concentration required to reduce vaccinia virus induced cytopathogenicity by 50% in primary rabbit kidney cell cultures.,F
+CHEMBL847548,CHEMBL1125541,,Orthopoxvirus vaccinia,Compound was tested in vitro for antiviral activity against vaccinia virus (Concentration which was cytotoxic to 50% of uninfected cells),A
+CHEMBL847549,CHEMBL1135597,E6SM,Orthopoxvirus vaccinia,Inhibitory activity against vaccinia virus (VV) replication in E6SM cell cultures of human embryonic skin-muscle,F
+CHEMBL847550,CHEMBL1135597,E6SM,Orthopoxvirus vaccinia,Inhibitory activity against vaccinia virus (VV) replication in E6SM cell cultures of human embryonic skin-muscle,F
+CHEMBL847551,CHEMBL1126104,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus (VV) in primary rabbit kidney (PRK) / embryonic skin-muscle (E6SM) fibroblast culture lines,F
+CHEMBL833131,CHEMBL1145143,Vero 76,Orthopoxvirus vaccinia,Concentration required for 50% inhibition of adohcy hydrolase by the compound against vaccinia virus in vero 76 cells,F
+CHEMBL870635,CHEMBL1147740,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus in HEL cells,F
+CHEMBL863445,CHEMBL1147756,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus in HFF cells,F
+CHEMBL861922,CHEMBL1148631,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL862055,CHEMBL1148631,,Orthopoxvirus vaccinia,Cytotoxicity against Vaccinia virus,A
+CHEMBL862107,CHEMBL1148631,,Orthopoxvirus vaccinia,Selective index against Vaccinia virus,F
+CHEMBL860527,CHEMBL1139008,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen replication in HFF cells,F
+CHEMBL863850,CHEMBL1146075,E6SM,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus in E6SM cells,F
+CHEMBL869338,CHEMBL1147827,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen in HFF cells assessed as reduction in cytopathogenicity,F
+CHEMBL869339,CHEMBL1147827,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen in HFF cells assessed as reduction in plaque formation,F
+CHEMBL867517,CHEMBL1148520,HFF,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus Copenhagen measured as cytopathogenicity in HFF cells,F
+CHEMBL866299,CHEMBL1148520,HFF,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus Copenhagen assessed as plaque reduction in HFF cells,F
+CHEMBL866926,CHEMBL1138928,HFF,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus in HFF cells by cytopathogenic effect assay,F
+CHEMBL866927,CHEMBL1138928,HFF,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus in HFF cells by plaque reduction assay,F
+CHEMBL868104,CHEMBL1138928,,Orthopoxvirus vaccinia,Activity against vaccinia virus thymidine kinase,B
+CHEMBL871556,CHEMBL1146876,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus,F
+CHEMBL910487,CHEMBL1138863,HEL,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus in HEL cells,F
+CHEMBL856858,CHEMBL1141413,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus,F
+CHEMBL855401,CHEMBL1142200,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected HFF cells,F
+CHEMBL855403,CHEMBL1142200,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR infected HFF cells,F
+CHEMBL855390,CHEMBL1142200,,Orthopoxvirus vaccinia,"Reduction of Vaccinia virus WR replication in BALB/c mouse liver at 15 mg/kg after 24 hrs of viral infection, ip for 5 days",F
+CHEMBL855391,CHEMBL1142200,,Orthopoxvirus vaccinia,"Reduction of Vaccinia virus WR replication in BALB/c mouse spleen at 15 mg/kg after 24 hrs of viral infection, ip for 5 days",F
+CHEMBL855392,CHEMBL1142200,,Orthopoxvirus vaccinia,"Reduction of Vaccinia virus WR replication in BALB/c mouse kidney at 15 mg/kg after 24 hrs of viral infection, ip for 5 days",F
+CHEMBL915162,CHEMBL1142200,,Orthopoxvirus vaccinia,"Reduction of Vaccinia virus WR replication in BALB/c mouse lung at 50 mg/kg after 24 hrs of viral infection, po for 9 days",F
+CHEMBL915163,CHEMBL1142200,,Orthopoxvirus vaccinia,"Reduction of Vaccinia virus WR replication in BALB/c mouse liver at 50 mg/kg after 24 hrs of viral infection, po for 9 days",F
+CHEMBL915164,CHEMBL1142200,,Orthopoxvirus vaccinia,"Reduction of Vaccinia virus WR replication in BALB/c mouse spleen at 50 mg/kg after 24 hrs of viral infection, po for 9 days",F
+CHEMBL915165,CHEMBL1142200,,Orthopoxvirus vaccinia,"Reduction of Vaccinia virus WR replication in BALB/c mouse kidney at 50 mg/kg after 24 hrs of viral infection, po for 9 days",F
+CHEMBL916168,CHEMBL1142203,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen in HFF cells by plaque reduction assay,F
+CHEMBL916700,CHEMBL1142867,HEL,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus Lederle in HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL918571,CHEMBL1142975,BSC-40,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus IHD-J in BSC40 cells by CPE assay,F
+CHEMBL918583,CHEMBL1142975,BSC-40,Orthopoxvirus vaccinia,Antiviral activity assessed as inhibition of extracellular virus formation in vaccinia virus IHD-J infected BSC40 cells at 5 uM after 24 hrs,F
+CHEMBL917353,CHEMBL1144551,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus,F
+CHEMBL918261,CHEMBL1144557,E6SM,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus-induced cytopathogenicity in E6SM cells,F
+CHEMBL918262,CHEMBL1144557,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus-induced cytopathogenicity in HEL cells,F
+CHEMBL905252,CHEMBL1143708,E6SM,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus in E6SM cells assessed as reduction of virus-induced cytopathogenicity,F
+CHEMBL893059,CHEMBL1147969,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus-induced cytopathogenicity at 16 ug/mL,F
+CHEMBL894483,CHEMBL1148744,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus in HEL cells assessed as reduction of virus-induced cytopathogenicity,F
+CHEMBL900328,CHEMBL1138246,HEL,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus Lederle in HEL cells assessed as reduction of virus-induced cytopathogenicity,F
+CHEMBL901904,CHEMBL1138288,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus-infected Vero cells,F
+CHEMBL926163,CHEMBL1140758,HEL,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus in HEL cells at 100 ug/mL,F
+CHEMBL931153,CHEMBL1142254,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus,F
+CHEMBL937001,CHEMBL1143932,L2,Orthopoxvirus vaccinia,Effect on Vaccinia virus multiplication in mouse L2 cells assessed as plaque forming units per cell at 15 uM after 24 hrs,F
+CHEMBL937002,CHEMBL1143932,L2,Orthopoxvirus vaccinia,Effect on Vaccinia virus multiplication in mouse L2 cells assessed as plaque forming units per cell at 30 uM after 24 hrs,F
+CHEMBL937003,CHEMBL1143932,L2,Orthopoxvirus vaccinia,Effect on Vaccinia virus multiplication in mouse L2 cells assessed as plaque forming units per cell at 75 uM after 24 hrs,F
+CHEMBL937004,CHEMBL1143932,L2,Orthopoxvirus vaccinia,Effect on Vaccinia virus multiplication in mouse L2 cells assessed as plaque forming units per cell at 150 uM after 24 hrs,F
+CHEMBL937005,CHEMBL1143932,L2,Orthopoxvirus vaccinia,Effect on Vaccinia virus multiplication in mouse L2 cells assessed as plaque forming units per cell at 300 uM after 24 hrs,F
+CHEMBL938320,CHEMBL1145474,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus in HFF cells after 1 hr by plaque reduction assay,F
+CHEMBL938331,CHEMBL1145474,,Orthopoxvirus vaccinia,Activity of Vaccinia virus WR thymidine kinase assessed as ATP utilization by luciferase-based assay,B
+CHEMBL938332,CHEMBL1145474,,Orthopoxvirus vaccinia,Ratio of Vmax to Km for Vaccinia virus WR thymidine kinase,B
+CHEMBL921293,CHEMBL1144007,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus,F
+CHEMBL1011333,CHEMBL1150051,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle vaccine infected in african green monkey Vero cells assessed as inhibition of virus-induced cytopathic effect by MTT assay,F
+CHEMBL949553,CHEMBL1158161,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus,F
+CHEMBL1004521,CHEMBL1138488,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathic effect at <=100 uM,F
+CHEMBL969880,CHEMBL1156695,HEL,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus infected in HEL cells assessed as reduction of virus-induced cytopathogenicity,F
+CHEMBL977340,CHEMBL1140035,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus,F
+CHEMBL942574,CHEMBL1143268,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human foreskin fibroblasts by plaque assay,F
+CHEMBL942576,CHEMBL1143268,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HFF by plaque assay in presence of deoxy-coformycin,F
+CHEMBL1005858,CHEMBL1137662,,Orthopoxvirus vaccinia,"Toxicity in Vaccinia virus WR infected BALB/c mouse assessed as survival at 30 mg/kg, po treated for 5 days after 24 hrs of viral inoculation",F
+CHEMBL1005859,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as log reduction of viral titer per gram of kidney at 30 mg/kg, po treated for 5 days after 24 hrs of viral inoculation",F
+CHEMBL1005860,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as log reduction of viral titer per gram of spleen at 30 mg/kg, po treated for 5 days after 24 hrs of viral inoculation",F
+CHEMBL1005861,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as log reduction of viral titer per gram of liver at 30 mg/kg, po treated for 5 days after 24 hrs of viral inoculation",F
+CHEMBL1006702,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 15 mg/kg, ip treated for 5 days after 72 hrs of viral inoculation",F
+CHEMBL1006703,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 15 mg/kg, ip treated for 5 days after 48 hrs of viral inoculation",F
+CHEMBL1006704,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 15 mg/kg, ip treated for 5 days after 24 hrs of viral inoculation",F
+CHEMBL1006705,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mean death day at 3 mg/kg, po treated for 5 days after 72 hrs of viral inoculation",F
+CHEMBL1006706,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mean death day at 10 mg/kg, po treated for 5 days after 72 hrs of viral inoculation",F
+CHEMBL1006707,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mean death day at 30 mg/kg, po treated for 5 days after 72 hrs of viral inoculation",F
+CHEMBL1006708,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mean death day at 3 mg/kg, po treated for 5 days after 48 hrs of viral inoculation",F
+CHEMBL1006709,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mean death day at 10 mg/kg, po treated for 5 days after 48 hrs of viral inoculation",F
+CHEMBL1006710,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mean death day at 30 mg/kg, po treated for 5 days after 48 hrs of viral inoculation",F
+CHEMBL1006711,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mean death day at 3 mg/kg, po treated for 5 days after 24 hrs of viral inoculation",F
+CHEMBL1006712,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mean death day at 30 mg/kg, po treated for 5 days after 24 hrs of viral inoculation",F
+CHEMBL1006713,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 3 mg/kg, po treated for 5 days after 72 hrs of viral inoculation",F
+CHEMBL1006714,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 10 mg/kg, po treated for 5 days after 72 hrs of viral inoculation",F
+CHEMBL1006715,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 30 mg/kg, po treated for 5 days after 72 hrs of viral inoculation",F
+CHEMBL1006716,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 10 mg/kg, ip treated for 5 days after 72 hrs of viral inoculation",F
+CHEMBL1006717,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 3 mg/kg, po treated for 5 days after 48 hrs of viral inoculation",F
+CHEMBL1006718,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 10 mg/kg, po treated for 5 days after 48 hrs of viral inoculation",F
+CHEMBL1006719,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 30 mg/kg, po treated for 5 days after 48 hrs of viral inoculation",F
+CHEMBL1006720,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 10 mg/kg, ip treated for 5 days after 48 hrs of viral inoculation",F
+CHEMBL1006721,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 3 mg/kg, po treated for 5 days after 24 hrs of viral inoculation",F
+CHEMBL1006722,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 10 mg/kg, po treated for 5 days after 24 hrs of viral inoculation",F
+CHEMBL1006723,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 30 mg/kg, po treated for 5 days after 24 hrs of viral inoculation",F
+CHEMBL1006724,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as mortality at 10 mg/kg, ip treated for 5 days after 24 hrs of viral inoculation",F
+CHEMBL997976,CHEMBL1137662,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR in HFF cells assessed as reduction of viral replication after 3 days,F
+CHEMBL997977,CHEMBL1137662,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen in HFF cells assessed as reduction of viral replication after 3 days,F
+CHEMBL997980,CHEMBL1137662,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected BALB/c mouse assessed as reduction of viral titer in lung at 30 mg/kg, po treated for 5 days after 24 hrs of viral inoculation",F
+CHEMBL1004216,CHEMBL1137648,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen in HFF cells assessed as reduction plaque formation after 3 days,F
+CHEMBL1004217,CHEMBL1137648,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR in HFF cells assessed as reduction plaque formation after 3 days,F
+CHEMBL1005056,CHEMBL1137648,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen in HFF cells assessed as inhibition of viral replication after 7 days,F
+CHEMBL998926,CHEMBL1137668,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle infected in HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL987902,CHEMBL1149790,E6SM,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus in human E6SM cells assessed as reduction of virus-induced cytopathogenicity,F
+CHEMBL987903,CHEMBL1149790,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus in human HEL cells assessed as reduction of virus-induced cytopathogenicity,F
+CHEMBL984433,CHEMBL1144182,Vero 76,Orthopoxvirus vaccinia,Antiviral activity against VV infected in Vero76 cells assessed as reduction in virus plaque formation after 4 days by MTT assay,F
+CHEMBL987951,CHEMBL1144203,HEL,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathic effect at 100 uM by MTS assay,F
+CHEMBL985341,CHEMBL1151696,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus assessed as effect on virus-induced cytopathogenicity by MTS assay,F
+CHEMBL1024879,CHEMBL1140145,,Orthopoxvirus vaccinia,Inhibition of Vaccinia virus DNA synthesis in by rapid plate assay,F
+CHEMBL1024880,CHEMBL1140145,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR in BSC1 cells assessed as reduction in plaque formation after 20 hrs,F
+CHEMBL1024881,CHEMBL1140145,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR in BSC1 cells assessed as protection from virus-induced lysis of cell monolayer after 20 hrs,F
+CHEMBL1024886,CHEMBL1140145,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR in BSC1 cells assessed as reduction in plaque formation up to 200 uM after 20 hrs,F
+CHEMBL1024887,CHEMBL1140145,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR in BSC1 cells assessed as protection from virus-induced lysis of cell monolayer up to 200 uM after 20 hrs,F
+CHEMBL1024889,CHEMBL1140145,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR in BSC1 cells assessed as retention of antiviral potency by measuring exogenous double stranded DNA trapping,F
+CHEMBL1034017,CHEMBL1136837,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL1021194,CHEMBL1152859,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL1012635,CHEMBL1152768,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells,F
+CHEMBL1011655,CHEMBL1152844,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells,F
+CHEMBL959950,CHEMBL1150283,HEL,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus assessed as inhibition of virus-induced cytopathogenicity in HEL cells,F
+CHEMBL961014,CHEMBL1153449,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL963153,CHEMBL1153936,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus assessed as inhibition of viral replication,F
+CHEMBL954270,CHEMBL1153955,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle in human HEL cells assessed as protection against virus-induced cytopathicity,F
+CHEMBL1034457,CHEMBL1158343,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as reduction in virus-induced cytopathogenicity after 3 days,F
+CHEMBL1032850,CHEMBL1151929,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle infected in HEL cells assessed as reduction of virus-induced cytopathic effect at 10 to 100 ug/ml,F
+CHEMBL1058228,CHEMBL1153616,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in in human HEL cells assessed as inhibition of virus-induced cytopathicity after 3 days,F
+CHEMBL1059051,CHEMBL1153616,,Vaccinia virus Lister,Antiviral activity against Vaccinia virus Lister,F
+CHEMBL1059052,CHEMBL1153616,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Western Reserve,F
+CHEMBL1059053,CHEMBL1153616,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen,F
+CHEMBL1059074,CHEMBL1153622,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL1056005,CHEMBL1153581,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as protection against virus-induced cytopathogenicity,F
+CHEMBL1049237,CHEMBL1154067,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus after 3 days by plaque reduction assay,F
+CHEMBL1046573,CHEMBL1154091,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells at subtoxic concentration,F
+CHEMBL1045050,CHEMBL1154169,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus assessed as reduction of virus plaque formation by cell based assay,F
+CHEMBL1037907,CHEMBL1156068,Vero 76,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in african green monkey Vero76 cells after 3 days by plaque reduction assay,F
+CHEMBL1045382,CHEMBL1156792,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle infected in HEL cells assessed as inhibition of virus-induced cytopathicity in presence of vildagliptin,F
+CHEMBL1045383,CHEMBL1156792,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle infected in HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL1074118,CHEMBL1157663,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells,F
+CHEMBL1074119,CHEMBL1157663,HEL,Orthopoxvirus vaccinia,Ratio of compound EC50 to HPMP-5-azaC EC50 for Vaccinia virus infected in HEL cells,F
+CHEMBL1115017,CHEMBL1154855,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as protection from virus-induced cytopathogenicity after 2 to 3 days by MTT assay,F
+CHEMBL1102068,CHEMBL1153735,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as inhibition of virus induced cytopathic effect,F
+CHEMBL1108567,CHEMBL1154819,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as inhibition of virus-induced cytopathic effect up to 200 uM after 3 days,F
+CHEMBL1107220,CHEMBL1156237,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Elstree-Lister infected in african green monkey Vero cells after 3 days by plaque reduction assay,F
+CHEMBL1105325,CHEMBL1156147,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus lederle assessed as inhibition of virus-induced cytopathicity by cell based assay,F
+CHEMBL1117187,CHEMBL1156333,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus lederle infected in human HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL1103631,CHEMBL1156333,,Orthopoxvirus vaccinia,Ratio of compound EC50 over ribavirin EC50 for Vaccinia virus lederle,F
+CHEMBL1103635,CHEMBL1156333,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus lederle infected in human HEL cells assessed as inhibition of virus-induced cytopathicity at 100 uM,F
+CHEMBL1107435,CHEMBL1157820,,Orthopoxvirus vaccinia,Displacement of FITC-conjugated BH3-Bak peptide from Vaccinia virus recombinant N1L expressed in Escherichia coli BL21 (DE3) by fluorescence polarization assay,B
+CHEMBL1107436,CHEMBL1157820,,Orthopoxvirus vaccinia,Destabilizing effect on Vaccinia virus recombinant N1L expressed in Escherichia coli BL21 (DE3) assessed as decrease in equilibrium constant of protein dimerization at 100 uM by analytical ultracentrifugation,B
+CHEMBL1107437,CHEMBL1157820,,Orthopoxvirus vaccinia,Displacement of FITC-conjugated BH3-Bim peptide from Vaccinia virus N-terminal GST-fused F1L expressed in Escherichia coli BL21 (DE3) by fluorescence polarization assay,B
+CHEMBL1108203,CHEMBL1157820,,Orthopoxvirus vaccinia,Binding affinity to Vaccinia virus recombinant N1L expressed in Escherichia coli BL21 (DE3) assessed as protein melting temperature at 71 uM by differential scanning calorimetry,B
+CHEMBL1108204,CHEMBL1157820,,Orthopoxvirus vaccinia,Binding affinity to Vaccinia virus recombinant N1L expressed in Escherichia coli BL21 (DE3) assessed as protein melting temperature at 214 uM by differential scanning calorimetry,B
+CHEMBL1108205,CHEMBL1157820,,Orthopoxvirus vaccinia,Binding affinity to Vaccinia virus recombinant N1L expressed in Escherichia coli BL21 (DE3) assessed as protein melting temperature at 106 uM by differential scanning calorimetry,B
+CHEMBL1108206,CHEMBL1157820,,Orthopoxvirus vaccinia,Binding affinity to Vaccinia virus recombinant N1L I6K mutant expressed in Escherichia coli BL21 (DE3) assessed as protein melting temperature at 214 uM by differential scanning calorimetry,B
+CHEMBL1108207,CHEMBL1157820,,Orthopoxvirus vaccinia,Binding affinity to Vaccinia virus recombinant N1L expressed in Escherichia coli BL21 (DE3) assessed as effect on enthalpy of protein unfolding at 214 uM by differential scanning calorimetry,B
+CHEMBL1108208,CHEMBL1157820,,Orthopoxvirus vaccinia,Binding affinity to Vaccinia virus recombinant N1L expressed in Escherichia coli BL21 (DE3) assessed as effect on enthalpy of protein unfolding at 71 uM by differential scanning calorimetry,B
+CHEMBL1108209,CHEMBL1157820,,Orthopoxvirus vaccinia,Binding affinity to Vaccinia virus recombinant N1L expressed in Escherichia coli BL21 (DE3) assessed as effect on enthalpy of protein unfolding at 106 uM by differential scanning calorimetry,B
+CHEMBL1108210,CHEMBL1157820,,Orthopoxvirus vaccinia,Binding affinity to Vaccinia virus recombinant N1L I6K mutant expressed in Escherichia coli BL21 (DE3) assessed as effect on enthalpy of protein unfolding at 214 uM by differential scanning calorimetry,B
+CHEMBL1108211,CHEMBL1157820,,Orthopoxvirus vaccinia,Displacement of FITC-conjugated BH3-Bak peptide from 1 uM Vaccinia virus recombinant N1L expressed in Escherichia coli BL21 (DE3) by fluorescence polarization assay,B
+CHEMBL1108212,CHEMBL1157820,,Orthopoxvirus vaccinia,Displacement of FITC-conjugated BH3-Bak peptide from 0.5 uM Vaccinia virus recombinant N1L expressed in Escherichia coli BL21 (DE3) by fluorescence polarization assay,B
+CHEMBL1108213,CHEMBL1157820,CV-1,Orthopoxvirus vaccinia,Antiviral activity against GFP-expressing Vaccinia virus WR infected in african green monkey CV1 cells after 2.5 days by fluorescence assay,F
+CHEMBL1108214,CHEMBL1157820,HT-1080,Orthopoxvirus vaccinia,Antiviral activity against GFP-expressing Vaccinia virus WR infected in human HT1080 cells after 2.5 days by fluorescence assay,F
+CHEMBL1120407,CHEMBL1155465,E6SM,Orthopoxvirus vaccinia,Antiviral activity against Vaccina virus infected in human E6SM cell assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL1174362,CHEMBL1177846,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as inhibition of virus-induced cytopathic effect after 3 days by MTS assay,F
+CHEMBL1175049,CHEMBL1177887,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as virus-induced cytopathic effect,F
+CHEMBL1225723,CHEMBL1221337,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL1259550,CHEMBL1255569,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL assessed as reduction in virus-induce cytopathicity,F
+CHEMBL1291311,CHEMBL1287642,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as protection against virus-induced cytopathogenicity after 2 days,F
+CHEMBL1633576,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as uncured animal at 15 mg/kg, ip bid for 5 days administered 24 hrs after infection relative to control",F
+CHEMBL1633577,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as uncured animal at 50 mg/kg, ip bid for 5 days administered 24 hrs after infection relative to control",F
+CHEMBL1633578,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as uncured animal at 15 mg/kg, ip qd for 5 days administered 24 hrs after infection relative to control",F
+CHEMBL1633579,CHEMBL1629620,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR infected in HFF assessed as inhibition of DNA synthesis after 24 hrs by PCR analysis,F
+CHEMBL1633581,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as reduction of kidney viral titer at 15 mg/kg, ip qd for 5 days administered 24 hrs after infection",F
+CHEMBL1633582,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as reduction of spleen viral titer at 15 mg/kg, ip qd for 5 days administered 24 hrs after infection",F
+CHEMBL1633583,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as reduction of lung viral titer at 15 mg/kg, po bid for 5 days administered 24 hrs after infection",F
+CHEMBL1633584,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as reduction of liver viral titer at 15 mg/kg, ip qd for 5 days administered 24 hrs after infection",F
+CHEMBL1633590,CHEMBL1629620,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in HFF assessed as reduction of plaque formation after 3 days,F
+CHEMBL1633591,CHEMBL1629620,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR infected in HFF assessed as reduction of plaque formation after 3 days,F
+CHEMBL1634894,CHEMBL1629567,HeLa S3,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR harboring the HIV gag gene infected in HeLaS3 cells after 3 to 5 days by plaque assay,F
+CHEMBL1634895,CHEMBL1629567,HeLa S3,Vaccinia virus IHD-J,Antiviral activity against Vaccinia virus IHD-J ATCC VR-156 infected in HeLaS3 cells after 3 to 5 days by plaque assay,F
+CHEMBL1635016,CHEMBL1629567,HeLa S3,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus IHD-W ATCC VR-1441 infected in HeLaS3 cells after 3 to 5 days by plaque assay,F
+CHEMBL1635017,CHEMBL1629567,HeLa S3,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR harboring the HIV gag gene infected in HeLaS3 cells assessed as inhibition of viral replication in hollow-fiber infection model at >= 50 uM as continuous infusion by plaque assay,F
+CHEMBL1635018,CHEMBL1629567,HeLa S3,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR harboring the HIV gag gene infected in HeLaS3 cells assessed as inhibition of viral replication in hollow-fiber infection model by plaque assay,F
+CHEMBL1635019,CHEMBL1629567,HeLa S3,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR harboring HIV gag gene infected in HeLaS3 cells at 3 uM as continuous infusion in hollow-fiber infection model after 72 hrs by ELISA,F
+CHEMBL1635020,CHEMBL1629567,HeLa S3,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR harboring HIV gag gene infected in HeLaS3 cells at 3 uM administered as intermittent infusion over 1 hr measured after 72 hrs in hollow-fiber infection model by ELISA,F
+CHEMBL1635024,CHEMBL1629567,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR infected in cynomolgus monkey with probenecid assessed as decrease in plasma viral titer at 6 dose regimen of 2.5 mg/kg for 13 days,F
+CHEMBL1635025,CHEMBL1629567,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR infected in cynomolgus monkey with probenecid assessed as decrease in plasma viral titer at 5 dose regimen of 2.5 mg/kg for 13 days,F
+CHEMBL1635027,CHEMBL1629567,HeLa S3,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR harboring HIV gag gene infected in HeLaS3 cells at 100 uM as continuous infusion in hollow-fiber infection model after 72 hrs by ELISA,F
+CHEMBL1635028,CHEMBL1629567,HeLa S3,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR harboring HIV gag gene infected in HeLaS3 cells at 100 uM administered as intermittent infusion over 1 hr measured in hollow-fiber infection model after 72 hrs by ELISA,F
+CHEMBL1635033,CHEMBL1629567,HeLa S3,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR harboring HIV gag gene infected in HeLaS3 cells at 30 uM as continuous infusion in hollow-fiber infection model after 72 hrs by ELISA,F
+CHEMBL1635034,CHEMBL1629567,HeLa S3,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR harboring HIV gag gene infected in HeLaS3 cells at 30 uM administered as intermittent infusion over 1 hr measured in hollow-fiber infection model after 72 hrs by ELISA,F
+CHEMBL1635035,CHEMBL1629567,HeLa S3,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR harboring HIV gag gene infected in HeLaS3 cells compound administered as bolus infusion equivalent to 100 uM continuous infusion in hollow-fiber infection model after 72 hrs by ELISA,F
+CHEMBL1636833,CHEMBL1629620,,Orthopoxvirus vaccinia,Ratio of compound EC50 to cidofovir EC50 for Vaccinia virus Copenhagen,F
+CHEMBL1636834,CHEMBL1629620,,Orthopoxvirus vaccinia,Ratio of compound EC50 to cidofovir EC50 for Vaccinia virus WR,F
+CHEMBL1636985,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as reduction of liver viral titer at 15 mg/kg, po bid for 5 days administered 24 hrs after infection",F
+CHEMBL1636986,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as reduction of spleen viral titer at 15 mg/kg, po bid for 5 days administered 24 hrs after infection",F
+CHEMBL1636987,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as reduction of kidney viral titer at 15 mg/kg, po bid for 5 days administered 24 hrs after infection",F
+CHEMBL1636988,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as reduction of lung viral titer at 15 mg/kg, ip qd for 5 days administered 24 hrs after infection",F
+CHEMBL1636996,CHEMBL1629620,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in HFF assessed as reduction of plaque formation at 100 uM after 3 days,F
+CHEMBL1636997,CHEMBL1629620,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR infected in HFF assessed as reduction of plaque formation at 100 uM after 3 days,F
+CHEMBL1636999,CHEMBL1629620,,Orthopoxvirus vaccinia,Antiviral activity against wild type Vaccinia virus infected in HFF assessed as reduction of plaque formation after 3 days,F
+CHEMBL1637000,CHEMBL1629620,,Orthopoxvirus vaccinia,Antiviral activity against cidofovir-resistant Vaccinia virus 15A harboring DNA polymerase E9L mutant infected in HFF assessed as reduction of plaque formation after 3 days,F
+CHEMBL1637001,CHEMBL1629620,,Orthopoxvirus vaccinia,Antiviral activity against ST-246-resistant Vaccinia virus VV911 harboring DNA polymerase E13L mutant infected in HFF assessed as reduction of plaque formation after 3 days,F
+CHEMBL1637002,CHEMBL1629620,,Orthopoxvirus vaccinia,Antiviral activity against J2R gene deficient Vaccinia virus harboring VVTK::luc infected in HFF assessed as reduction of plaque formation after 3 days,F
+CHEMBL1637011,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as uncured animal at 5 mg/kg, ip bid for 5 days administered 24 hrs after infection relative to control",F
+CHEMBL1637012,CHEMBL1629620,,Orthopoxvirus vaccinia,"Antiviral activity against Vaccinia virus WR infected in BALB/c mouse assessed as day of death at 15 mg/kg, ip bid for 5 days administered 24 hrs after infection",F
+CHEMBL1636504,CHEMBL1629554,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells,F
+CHEMBL1639580,CHEMBL1629526,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus induced cytopathicity after 2 to 4 days by MTS assay,F
+CHEMBL1657160,CHEMBL1649078,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as reduction of virus-induced cytopathogenicity after 7 days,F
+CHEMBL1653979,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as protection against virus-induced systemic disease symptoms at 100 mg/kg, po qd measured after 6 days postinfection",F
+CHEMBL1653980,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as protection against virus-induced systemic disease symptoms at 100 mg/kg, po qd measured after 9 days postinfection",F
+CHEMBL1654675,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intravenous route in BALB/c mouse assessed as protection against virus-induced systemic disease symptoms at 100 mg/kg, po qd measured after 9 days postinfection",F
+CHEMBL1654676,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through subcutaneous route in BALB/c mouse assessed as protection against virus-induced systemic disease symptoms at 100 mg/kg, po qd measured after 9 days postinfection",F
+CHEMBL1654790,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as protection against virus-induced systemic disease symptoms at 100 mg/kg, po qd measured after 9 days postinfection",F
+CHEMBL1654791,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as protection against virus-induced satellite lesion formation on tails at 100 mg/kg, po qd measured after 6 days postinfection",F
+CHEMBL1654792,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as protection against virus-induced conjunctivitis in mouse eyes at 100 mg/kg, po qd measured after 6 days postinfection",F
+CHEMBL1654793,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as protection against virus-induced satellite lesion formation on tails at 100 mg/kg, po qd measured after 6 days postinfection",F
+CHEMBL1654794,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as protection against virus-induced conjunctivitis in mouse eyes at 100 mg/kg, po qd measured after 6 days postinfection",F
+CHEMBL1654795,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intravenous route in BALB/c mouse assessed as protection against virus-induced satellite lesion formation on tails at 100 mg/kg, po qd measured after 6 days postinfection",F
+CHEMBL1654796,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intravenous route in BALB/c mouse assessed as protection against virus-induced conjunctivitis in mouse eyes at 100 mg/kg, po qd measured after 6 days postinfection",F
+CHEMBL1654797,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through subcutaneous route in BALB/c mouse assessed as protection against virus-induced satellite lesion formation on tails at 100 mg/kg, po qd measured after 6 days postinfection",F
+CHEMBL1654798,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through subcutaneous route in BALB/c mouse assessed as protection against virus-induced conjunctivitis in mouse eyes at 100 mg/kg, po qd measured after 6 days postinfection",F
+CHEMBL1654799,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as protection against virus-induced satellite lesion formation on tails at 100 mg/kg, po qd measured after 6 days postinfection",F
+CHEMBL1654800,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as protection against virus-induced conjunctivitis in mouse eyes at 100 mg/kg, po qd measured after 6 days postinfection",F
+CHEMBL1654801,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in lungs at 100 mg/kg, po qd measured after 3 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654802,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in lungs at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654803,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in blood at 100 mg/kg, po qd measured after 3 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654804,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in spleen at 100 mg/kg, po qd measured after 3 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654805,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in liver at 100 mg/kg, po qd measured after 3 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654806,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in brain at 100 mg/kg, po qd measured after 3 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654807,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in blood at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654808,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in spleen at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654809,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in liver at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654810,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in brain at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654811,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in blood at 100 mg/kg, po qd measured after 7 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654812,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in spleen at 100 mg/kg, po qd measured after 7 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654813,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in liver at 100 mg/kg, po qd measured after 7 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654814,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in brain at 100 mg/kg, po qd measured after 7 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654815,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in blood at 100 mg/kg, po qd measured after 13 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654907,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in spleen at 100 mg/kg, po qd measured after 13 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654908,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in liver at 100 mg/kg, po qd measured after 13 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654909,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in brain at 100 mg/kg, po qd measured after 13 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654910,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as reduction of viral load in blood at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654911,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as reduction of viral load in lung at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654912,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as reduction of viral load in spleen at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654913,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as reduction of viral load in liver at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654914,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as reduction of viral load in brain at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654915,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as reduction of viral load in blood at 100 mg/kg, po qd measured after 14 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654916,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as reduction of viral load in lung at 100 mg/kg, po qd measured after 14 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654917,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as reduction of viral load in spleen at 100 mg/kg, po qd measured after 14 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1654918,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as reduction of viral load in liver at 100 mg/kg, po qd measured after 14 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653080,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in BALB/c mouse assessed as reduction of viral load in brain at 100 mg/kg, po qd measured after 14 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653081,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intravenous route in BALB/c mouse assessed as reduction of viral load in spleen at 100 mg/kg, po qd measured after 14 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653082,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intravenous route in BALB/c mouse assessed as reduction of viral load in lung at 100 mg/kg, po qd measured after 14 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653083,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intravenous route in BALB/c mouse assessed as reduction of viral load in blood at 100 mg/kg, po qd measured after 14 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653084,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intravenous route in BALB/c mouse assessed as reduction of viral load in liver at 100 mg/kg, po qd measured after 3 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653085,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intravenous route in BALB/c mouse assessed as reduction of viral load in brain at 100 mg/kg, po qd measured after 3 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653204,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intravenous route in BALB/c mouse assessed as reduction of viral load in liver at 100 mg/kg, po qd measured after 14 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653205,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intravenous route in BALB/c mouse assessed as reduction of viral load in brain at 100 mg/kg, po qd measured after 14 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653206,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through subcutaneous route in BALB/c mouse assessed as reduction of viral load in lung at 100 mg/kg, po qd measured after 3 to 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653207,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as reduction of viral load in blood at 100 mg/kg, po qd measured after 3 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653208,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as reduction of viral load in lung at 100 mg/kg, po qd measured after 3 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653209,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as reduction of viral load in spleen at 100 mg/kg, po qd measured after 3 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653210,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as reduction of viral load in liver at 100 mg/kg, po qd measured after 3 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653211,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as reduction of viral load in brain at 100 mg/kg, po qd measured after 3 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653212,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as reduction of viral load in blood at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653213,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as reduction of viral load in lung at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653214,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as reduction of viral load in spleen at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653215,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as reduction of viral load in liver at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653216,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through intraperitoneal route in BALB/c mouse assessed as reduction of viral load in brain at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653217,CHEMBL1649270,BSC-40,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 in african green monkey BSC-40 cells infected with 7 day postinfection nasal fluid from 100 mg/kg, po qd compound treated BALB/c mouse infected through percutaneous route assessed as reduction of viral attachment to cells by plaque titration assay",F
+CHEMBL1653218,CHEMBL1649270,BSC-40,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 in african green monkey BSC-40 cells infected with 7 day postinfection BAL fluid from 100 mg/kg, po qd compound treated BALB/c mouse infected through percutaneous route assessed as reduction of viral attachment to cells by plaque titration assay",F
+CHEMBL1653219,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in ACAM2000 vaccinated BALB/c mouse assessed as reduction of swab virus titers at 100 mg/kg, po qd measured after 5 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653220,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in ACAM2000 vaccinated BALB/c mouse assessed as reduction of swab virus titers at 100 mg/kg, po qd measured after 7 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653221,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in ACAM2000 vaccinated BALB/c mouse assessed as reduction of swab virus titers at 100 mg/kg, po qd measured after 14 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653222,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through dermal scarification route in ACAM2000 vaccinated BALB/c mouse assessed as reduction of swab virus titers at 100 mg/kg, po qd measured after 21 days postinfection by RT-PCR analysis relative to control",F
+CHEMBL1653223,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as protection against virus-induced death at 100 mg/kg, po qd for 5 to 14 days",F
+CHEMBL1653224,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as protection against virus-induced death at 100 mg/kg, po qd for 1 to 3 days",F
+CHEMBL1653225,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as protection against weight loss at 100 mg/kg, po qd for 1 to 3 days measured on day 8",F
+CHEMBL1653226,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as protection against weight loss at 100 mg/kg, po qd for 5 to 14 days measured on day 8",F
+CHEMBL1653227,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as protection against hypothermia at 100 mg/kg, po qd for 1 to 3 days measured on day 2",F
+CHEMBL1653228,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as protection against hypothermia at 100 mg/kg, po qd for 1 to 3 days measured on day 6",F
+CHEMBL1653229,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as protection against hypothermia at 100 mg/kg, po qd for 5 to 14 days",F
+CHEMBL1654518,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as inhibition of virus dissemination in spleen at 100 mg/kg, po qd for 1 day by RT-PCR analysis relative to control",F
+CHEMBL1654519,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as inhibition of virus dissemination in spleen at 100 mg/kg, po qd for 3 days by RT-PCR analysis relative to control",F
+CHEMBL1654520,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in spleen at 100 mg/kg, po qd for 1 day by RT-PCR analysis relative to control",F
+CHEMBL1654521,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as reduction of viral load in spleen at 100 mg/kg, po qd for 3 days by RT-PCR analysis relative to control",F
+CHEMBL1654522,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as inhibition of virus dissemination in blood at 100 mg/kg, po qd for 1 day by RT-PCR analysis",F
+CHEMBL1654523,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as inhibition of virus dissemination in liver at 100 mg/kg, po qd for 1 day by RT-PCR analysis",F
+CHEMBL1654524,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as inhibition of virus dissemination in brain at 100 mg/kg, po qd for 1 day by RT-PCR analysis",F
+CHEMBL1654525,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as inhibition of virus dissemination in blood at 100 mg/kg, po qd for 3 to 14 days by RT-PCR analysis",F
+CHEMBL1654526,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as inhibition of virus dissemination in liver at 100 mg/kg, po qd for 3 to 14 days by RT-PCR analysis",F
+CHEMBL1654704,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as inhibition of virus dissemination in brain at 100 mg/kg, po qd for 3 to 14 days by RT-PCR analysis",F
+CHEMBL1654705,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as protection against virus-induced death at 100 mg/kg, po qd administered 3 days after postinfection measured on day 6",F
+CHEMBL1654706,CHEMBL1649270,,Vaccinia virus WR,"Antiviral activity against Vaccinia virus WR ATCC VR-1354 infected through percutaneous route in BALB/c mouse assessed as protection against virus-induced death at 100 mg/kg, po qd administered 4 days after postinfection measured on day 6",F
+CHEMBL1671452,CHEMBL1667805,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathic effect,F
+CHEMBL1674444,CHEMBL1671794,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HELF assessed as virus-induced cytopathogenicity at 20 to 100 uM after 4 days by microscopy,F
+CHEMBL1697321,CHEMBL1687706,lung,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human embryonic lung cells assessed as reduction in viral yield measured after 3 days,F
+CHEMBL1763075,CHEMBL1759968,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathic effect,F
+CHEMBL1776110,CHEMBL1773001,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in human HFF cells assessed as reduction in viral-induced cytopathic effect by neutral red uptake assay,F
+CHEMBL1777580,CHEMBL1772955,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in human HFF cells after 3 days by plaque reduction assay,F
+CHEMBL1777498,CHEMBL1773050,,Orthopoxvirus vaccinia,Inhibition of Vaccinia virus WR strain processivity factor D4 interaction with A20 protein assessed as inhibition of E9 DNA polymerase-mediated DIG-dUTP incorporation into DNA strand by rapid plate assay,B
+CHEMBL1777500,CHEMBL1773050,,Vaccinia virus WR,Binding affinity at Vaccinia virus WR strain D4 assessed as change in unfolding transition temperature at 50 uM by thermofluor method,B
+CHEMBL1777502,CHEMBL1773050,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in BSC-1 cells by plaque reduction assay,F
+CHEMBL1777504,CHEMBL1773050,,Vaccinia virus WR,Binding affinity at Vaccinia virus WR strain D4 assessed as melting temperature at 50 uM by thermofluor method (Rvb = 38.4 +/- 1.6 degC),B
+CHEMBL1799515,CHEMBL1795274,Huh-7,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HuH7 cells assessed as reduction of virus-induced cytopathic-effect,F
+CHEMBL1803175,CHEMBL1799947,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in HFF cells assessed as reduction in plaque formation after 3 days,F
+CHEMBL1803227,CHEMBL1799947,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in HFF cells assessed as reduction in plaque formation up to 100 uM after 3 days,F
+CHEMBL1809338,CHEMBL1806488,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as inhibition of virus-induced cytopathic effect after 4 days by microscopic analysis,F
+CHEMBL1811229,CHEMBL1806434,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle assessed as reduction of virus induced cytopathicity by cell based assay,F
+CHEMBL1816538,CHEMBL1811861,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as protection against virus-induced cytopathicity,F
+CHEMBL1816677,CHEMBL1811825,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HFF cells after 3 days by Plaque reduction assay,F
+CHEMBL1827415,CHEMBL1821600,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathicity upto 200 uM administered after 1 hr virus adsorption period,F
+CHEMBL1832284,CHEMBL1828528,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathic effect,F
+CHEMBL1839181,CHEMBL1833830,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus assessed as inhibition of viral replication,F
+CHEMBL1913867,CHEMBL1909580,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as inhibition of virus-induced cytopathicity at 100 uM,F
+CHEMBL1930644,CHEMBL1926651,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as inhibition of viral plaque formation at 250 uM,F
+CHEMBL1931882,CHEMBL1926544,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in HFF cells incubated for 3 days by plaque reduction assay,F
+CHEMBL1936761,CHEMBL1933044,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus assessed as inhibition of viral replication,F
+CHEMBL1941437,CHEMBL1938334,Vero,Vaccinia virus Lister,Antiviral activity against Vaccinia virus Lister Elstree infected in african green monkey Vero 76 cells assessed as reduction of virus-induced plaque formation after 3 days using crystal violet staining,F
+CHEMBL2016048,CHEMBL2010803,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human lung fibroblast assessed as inhibition of virus-induced cytopathic effect at 0.32 to 100 uM,F
+CHEMBL2013526,CHEMBL2010769,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HFF assessed as reduction in virus induced cytopathic effect at 100 uM,F
+CHEMBL2014341,CHEMBL2010784,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle infected in HEL cells assessed as inhibition of viral-induced cytopathogenicity,F
+CHEMBL2025691,CHEMBL2021854,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathogenicity after 4 days,F
+CHEMBL2026746,CHEMBL2021796,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathogenicity,F
+CHEMBL2040335,CHEMBL2034874,Vero 76,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Elstree-Lister ATCC VR-1549 infected in african green monkey Vero-76 cells assessed as reduction in viral plaque after 3 days by crystal violet staining,F
+CHEMBL2039300,CHEMBL2034851,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as reduction in viral plaque formation,F
+CHEMBL2044326,CHEMBL2040790,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL2044337,CHEMBL2040790,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus at 25 uM during single experiment set up,F
+CHEMBL2044430,CHEMBL2040790,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus during single experiment set up,F
+CHEMBL2044431,CHEMBL2040790,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus at 25 uM during one experiment of multiple experiment set up,F
+CHEMBL2061794,CHEMBL2057086,HeLa,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HeLa cells assessed as reduction of viral replication,F
+CHEMBL2066980,CHEMBL2062419,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederie infected in HEL cells by viral CPE assay,F
+CHEMBL2149859,CHEMBL2146385,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL assessed as inhibition of virus-induced cytopathicity after 3 days,F
+CHEMBL2211943,CHEMBL2203037,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus by cell based assay,F
+CHEMBL2214290,CHEMBL2203009,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathic effect,F
+CHEMBL3048978,CHEMBL3046007,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected human HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL3052680,CHEMBL3045051,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected human HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL3059437,CHEMBL3046360,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathic effect after 3 days by MTT assay,F
+CHEMBL3054836,CHEMBL3046758,Vero 76,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected African green monkey Vero76 cells assessed as reduction of virus-induced plaque reduction after 3 days by MTT assay,F
+CHEMBL3053574,CHEMBL3044730,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected human HEL cells assessed as inhibition of virus-induced cytopathicity by microscopy,F
+CHEMBL3063299,CHEMBL3045530,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected human HEL cells assessed as inhibition of virus-induced cytopathicity by microscopy,F
+CHEMBL3077850,CHEMBL3045159,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected HEL cells,F
+CHEMBL3073659,CHEMBL3046811,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected African green monkey Vero 76 cells assessed as reduction in plaque number treated after viral infection measured after 3 days by plaque reduction assay,F
+CHEMBL3075717,CHEMBL3045116,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected human HEL cells assessed as reduction of virus-induced cytopathic effect after 3 days by colorimetric formazan-based MTS assay,F
+CHEMBL2317871,CHEMBL2311354,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as reduction of viral replication,F
+CHEMBL2329370,CHEMBL2321734,,Orthopoxvirus vaccinia,Ratio of cidofovir IC50 to compound IC50 for Vaccinia virus WR,F
+CHEMBL2329386,CHEMBL2321734,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR infected in african green monkey BSC1 cells after 4 days by plaque reduction assay,F
+CHEMBL2329387,CHEMBL2321734,RK13,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR expressing luciferase reporter virus v3 infected in rabbit RK13 cells assessed as inhibition of early stages of VACV replication at 10 uM incubated for 30 mins prior to inoculation measured after 2 hrs by luciferase reporter gene assay relative to control,F
+CHEMBL2330529,CHEMBL2321819,BSC-1,Vaccinia virus WR,Inhibition of 1 MOI of Vaccinia virus WR DNA polymerase processivity factor A20NT100-D4 complex infected in African green monkey BSC1 cells assessed as decrease in BrdU incorporation at 1 uM after 4 to 8 hrs by DAPI staining-based confocal microscopic analysis,B
+CHEMBL2330530,CHEMBL2321819,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against 5 MOI of Vaccinia virus WR infected in African green monkey BSC1 cells assessed as decrease in virus-induced cytopathicity at 1 uM after 8 hrs relative to cidofovir,F
+CHEMBL2330531,CHEMBL2321819,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against 5 MOI of Vaccinia virus WR infected in African green monkey BSC1 cells assessed as decrease in virus-induced cytopathicity at 1 uM after 8 hrs relative to vehicle-treated control,F
+CHEMBL2330532,CHEMBL2321819,BSC-1,Vaccinia virus WR,Inhibition of 1 MOI of Vaccinia virus WR DNA polymerase processivity factor A20NT100-D4 complex infected in African green monkey BSC1 cells assessed as decrease in A4 protein level after 12 hrs by Western blotting analysis,B
+CHEMBL2330533,CHEMBL2321819,BSC-1,Vaccinia virus WR,Inhibition of 1 MOI of Vaccinia virus WR DNA polymerase processivity factor A20NT100-D4 complex infected in African green monkey BSC1 cells assessed as decrease in E3 protein level at 1 uM after 8 hrs by Western blotting analysis,B
+CHEMBL2330534,CHEMBL2321819,BSC-1,Vaccinia virus WR,Inhibition of 5 MOI of Vaccinia virus WR DNA polymerase processivity factor A20NT100-D4 complex coexpressing recombinant L1 protein infected in African green monkey BSC1 cells assessed as reduction in EGFP expression at 1 uM after 8 hrs by fluorescence microscopic analysis,B
+CHEMBL2330535,CHEMBL2321819,BSC-1,Vaccinia virus WR,Inhibition of 5 MOI of Vaccinia virus WR DNA polymerase processivity factor A20NT100-D4 complex coexpressing recombinant L1 protein infected in African green monkey BSC1 cells assessed as reduction in EGFP expression at 100 uM after 8 hrs by fluorescence microscopic analysis,B
+CHEMBL2330536,CHEMBL2321819,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR infected in African green monkey BSC1 cells after overnight incubation by crystal violet staining-based plaque reduction assay,F
+CHEMBL2345897,CHEMBL2331518,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle by cell based assay,F
+CHEMBL2341557,CHEMBL2331182,BSC-40,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus NYCBH infected in BSC-40 cells assessed as inhibition of virus-induced cytopathogenicity after 4 to 6 days,F
+CHEMBL2342618,CHEMBL2331282,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as reduction of virus-induced cytopathogenicity,F
+CHEMBL2342627,CHEMBL2331282,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus at non-toxic concentration,F
+CHEMBL2344690,CHEMBL2331304,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL2344243,CHEMBL2331506,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle infected in human HEL cells assessed as reduction of virus-induced cytopathogenicity at 250 uM,F
+CHEMBL2387784,CHEMBL2385007,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle infected in HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL2388591,CHEMBL2384920,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as reduction of virus-induced cytopathicity at 200 uM measured at day 3 by microscopic analysis,F
+CHEMBL2388592,CHEMBL2384920,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as reduction of virus-induced cytopathicity measured at day 3 by microscopic analysis,F
+CHEMBL2400653,CHEMBL2396569,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in african green monkey Vero 76 cells assessed as inhibition of virus-induced cytopathic effect after 3 days by microscopic analysis,F
+CHEMBL2399879,CHEMBL2396525,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle,F
+CHEMBL2422594,CHEMBL2417481,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle infected in human HEL cells assessed as reduction in virus-induced cytopathogenicity,F
+CHEMBL2423051,CHEMBL2417501,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as reduction of virus-induced cytopathogenicity,F
+CHEMBL3090708,CHEMBL3085678,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL3119358,CHEMBL3112527,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL3135584,CHEMBL3132850,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL3222644,CHEMBL3217529,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL3232177,CHEMBL3227941,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey BSC-1 cells assessed as inhibition of virus multiplication at 100 ug/ml after 96 hrs by plaque reduction assay,F
+CHEMBL3232178,CHEMBL3227941,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey BSC-1 cells assessed as inhibition of virus multiplication at 50 ug/ml after 96 hrs by plaque reduction assay,F
+CHEMBL3232179,CHEMBL3227941,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey BSC-1 cells assessed as inhibition of virus multiplication at 25 ug/ml after 96 hrs by plaque reduction assay,F
+CHEMBL3232180,CHEMBL3227941,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey BSC-1 cells assessed as inhibition of virus multiplication at 12 ug/ml after 96 hrs by plaque reduction assay,F
+CHEMBL3232582,CHEMBL3227966,KB,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human KB cells assessed as inhibition of virus-induced cytopathic effect after 72 hrs by microscopically,F
+CHEMBL3232595,CHEMBL3227941,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey BSC-1 cells assessed as inhibition of virus multiplication at 6 ug/ml after 96 hrs by plaque reduction assay,F
+CHEMBL3232596,CHEMBL3227941,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey BSC-1 cells assessed as inhibition of virus multiplication at 3 ug/ml after 96 hrs by plaque reduction assay,F
+CHEMBL3230917,CHEMBL3227941,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in mouse assessed as assessed as protection against viral infection,F
+CHEMBL3231435,CHEMBL3227984,kidney,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in primary rabbit kidney cells assessed as inhibition of virus-induced cytopathogenicity,F
+CHEMBL3231438,CHEMBL3227984,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human skin fibroblasts assessed as inhibition of virus-induced cytopathogenicity,F
+CHEMBL3231973,CHEMBL3227988,kidney,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in primary rabbit kidney cells assessed as inhibition of virus-induced cytopathogenicity treated immediately after virus adsorption measured 2 to 3 days after virus infection,F
+CHEMBL3231974,CHEMBL3227988,Fibroblast,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human skin fibroblast cells assessed as inhibition of virus-induced cytopathogenicity treated immediately after virus adsorption measured 2 to 3 days after virus infection,F
+CHEMBL3231981,CHEMBL3227988,kidney,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in primary rabbit kidney cells assessed as inhibition of virus-induced cytopathogenicity at 200 ug/ml treated immediately after virus adsorption measured 2 to 3 days after virus infection,F
+CHEMBL3231982,CHEMBL3227988,Fibroblast,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human skin fibroblast cells assessed as inhibition of virus-induced cytopathogenicity at 200 ug/ml treated immediately after virus adsorption measured 2 to 3 days after virus infection,F
+CHEMBL3232480,CHEMBL3227988,kidney,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in primary rabbit kidney cells assessed as growth inhibition at 100 ug/ml treated immediately after virus adsorption measured 24 to 48 hrs after virus infection,F
+CHEMBL3242452,CHEMBL3232902,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle infected in HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL3257221,CHEMBL3244391,kidney,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in rabbit primary kidney cells assessed as inhibition of viral cytopathogenicity after 3 days,F
+CHEMBL3256745,CHEMBL3244025,HEp-2,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle Chorioallantoic infected in human Hep2 cells assessed as inhibition of virus-induced cytopathogenic effect,F
+CHEMBL3257236,CHEMBL3244165,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human skin fibroblasts assessed as inhibition of virus-induced cytopathogenicity,F
+CHEMBL3257238,CHEMBL3244165,kidney,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in primary rabbit kidney cells assessed as inhibition of virus-induced cytopathogenicity,F
+CHEMBL3255442,CHEMBL3244073,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle Chorioallantoic assessed as inhibition of virus-induced cytopathogenicity,F
+CHEMBL3255443,CHEMBL3244322,kidney,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in primary rabbit kidney cells assessed as inhibition of virus-induced cytopathogenicity,F
+CHEMBL3255444,CHEMBL3244322,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human skin fibroblasts primed with interferon and superinduced with cyclohexamide and actinomycin D assessed as inhibition of virus-induced cytopathogenicity,F
+CHEMBL3252725,CHEMBL3244032,KB,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human KB cells assessed as inhibition of virus-induced cytopathic effect at 1 to 1000 ug/ml after 72 hrs,F
+CHEMBL3253388,CHEMBL3244072,KB,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human KB cells assessed as inhibition of virus-induced cytopathic effect after 72 hrs relative to control,F
+CHEMBL3258434,CHEMBL3244145,L929,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in L929 cells assessed as reduction in plaque formation after 3 to 4 days by crystal violet staining method,F
+CHEMBL3253936,CHEMBL3244367,kidney,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in primary rabbit kidney cells assessed as inhibition of virus-induced cytopathogenicity treated immediately after virus adsorption measured 2 days after virus infection,F
+CHEMBL3269812,CHEMBL3259765,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as reduction in virus-induced cytopathicity after 3 days,F
+CHEMBL3285495,CHEMBL3271997,BGM,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus IHD infected in African green monkey BGM cells after 6 days by plaque reduction assay,F
+CHEMBL3284409,CHEMBL3272098,BGM,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus IHD infected in African green monkey BGM cells after 6 days by plaque reduction assay,F
+CHEMBL3284434,CHEMBL3272036,BGM,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus IHD infected in African green monkey BGM cells assessed as plaque reduction measured on day 5 by disk diffusion assay,F
+CHEMBL3282732,CHEMBL3271965,KB,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human KB cells assessed as virus-induced cytopathic effect after 72 hrs,F
+CHEMBL3284796,CHEMBL3272338,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in mouse,F
+CHEMBL3294410,CHEMBL3286377,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle assessed as inhibition of virus-induced cytopathicity at 100 uM by cell-based assay,F
+CHEMBL3387289,CHEMBL3351456,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HFF cells,F
+CHEMBL3364352,CHEMBL3352401,Vero 76,Vaccinia virus Lister,Antiviral activity against Vaccinia virus Lister ATCC VR-1549 infected in Vero 76 cells after 3 days by plaque reduction assays,F
+CHEMBL3364688,CHEMBL3352401,Vero 76,Vaccinia virus Lister,Ratio of Cidofovir EC50 to compound EC50 for Vaccinia virus Lister ATCC VR-1549 infected in Vero 76 cells after 3 days by plaque reduction assays,F
+CHEMBL3363810,CHEMBL3351357,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HFF cells assessed as inhibition of viral-induced cytopathicity,F
+CHEMBL3368959,CHEMBL3351523,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia Virus infected in african green monkey Vero 76 cells assessed as reduction in plaque number after 3 days by plaque reduction assay,F
+CHEMBL3399015,CHEMBL3396947,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells at 100 uM,F
+CHEMBL3412320,CHEMBL3407452,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus,F
+CHEMBL3424933,CHEMBL3421576,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey Vero 76 cells after 3 days by plaque reduction assay,F
+CHEMBL3588393,CHEMBL3585293,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as reduction of virus-induced cytopathogenicity,F
+CHEMBL3607203,CHEMBL3603790,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells after 3 days by neutral red dye-based plaque reduction assay,F
+CHEMBL3614731,CHEMBL3612061,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus assessed as protection against virus-induced cytopathogenic effect by cell based assay,F
+CHEMBL3619505,CHEMBL3616436,Vero,Orthopoxvirus vaccinia,Antiviral activity against Human Vaccinia virus ATCC VR-1549 infected in African green monkey Vero 76 cells assessed as reduction of virus-plaque formation after 3 days by crystal violet staining,F
+CHEMBL3626153,CHEMBL3621200,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle,F
+CHEMBL3738730,CHEMBL3734667,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL3738679,CHEMBL3734708,Vero 76,Orthopoxvirus vaccinia,Antiviral activity against VV Elstree ATCC VR-1549 infected in african green monkey Vero-76 cells after 3 days by plaque reduction assay,F
+CHEMBL3757553,CHEMBL3751697,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL3771415,CHEMBL3769315,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus,F
+CHEMBL3792054,CHEMBL3785043,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle,F
+CHEMBL3812817,CHEMBL3808296,Vero 76,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Elstree infected in Vero 76 cells after 3 days by crystal violet staining based plaque reduction assay,F
+CHEMBL3830280,CHEMBL3826905,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL3864534,CHEMBL3864138,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL3864541,CHEMBL3864138,HEL,Orthopoxvirus vaccinia,"Potency index, ratio of brivudin EC50 against Vaccinia virus infected in HEL cells to compound EC50 against Vaccinia virus infected in HEL cells",F
+CHEMBL3864542,CHEMBL3864138,HEL,Orthopoxvirus vaccinia,"Potency index, ratio of cidofovir EC50 against Vaccinia virus infected in HEL cells to compound EC50 against Vaccinia virus infected in HEL cells",F
+CHEMBL3872084,CHEMBL3871297,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HFF cells,F
+CHEMBL3877588,CHEMBL3877247,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus by cell infection assay,F
+CHEMBL4000329,CHEMBL4000146,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as inhibition of virus-induced cytopathic effect by visual scoring analysis,F
+CHEMBL4044829,CHEMBL4043131,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle infected in HEL cells assessed as inhibition of virus-induced cytopathic effect,F
+CHEMBL4046252,CHEMBL4043174,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus infected in PRK cells assessed as reduction in virus-induced cytopathic effect after 2 to 3 days,F
+CHEMBL4056695,CHEMBL4052722,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus LIVP harboring GFP infected in African green monkey CV1 cells assessed as GFP expression at 10 uM preincubated for 4 hrs with cells followed by viral infection measured after 24 hrs by flow cytometric analysis relative to control,F
+CHEMBL4056696,CHEMBL4052722,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus LIVP harboring GFP infected in African green monkey CV1 cells assessed as virus titer at 1 uM preincubated with cells for 4 hrs followed by viral infection measured after 48 hrs by gentian violet staining-based microscopic analysis (Rvb = 3.3 +/- 0.1 log10PFU/ml),F
+CHEMBL4056697,CHEMBL4052722,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus LIVP harboring GFP infected in African green monkey CV1 cells assessed as virus titer at 10 uM preincubated with cells for 4 hrs followed by viral infection measured after 48 hrs by gentian violet staining-based microscopic analysis (Rvb = 3.3 +/- 0.1 log10PFU/ml),F
+CHEMBL4056698,CHEMBL4052722,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus LIVP harboring GFP infected in African green monkey CV1 cells assessed as virus titer at 50 uM preincubated with cells for 4 hrs followed by viral infection measured after 48 hrs by gentian violet staining-based microscopic analysis (Rvb = 3.3 +/- 0.1 log10PFU/ml),F
+CHEMBL4056699,CHEMBL4052722,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus LIVP harboring GFP infected in African green monkey CV1 cells assessed as virus titer at 5 uM preincubated with cells for 4 hrs followed by viral infection measured after 48 hrs by gentian violet staining-based microscopic analysis (Rvb = 3.3 +/- 0.1 log10PFU/ml),F
+CHEMBL4056700,CHEMBL4052722,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus LIVP harboring GFP infected in African green monkey CV1 cells assessed as virus titer at 30 uM preincubated with cells for 4 hrs followed by viral infection measured after 48 hrs by gentian violet staining-based microscopic analysis (Rvb = 3.3 +/- 0.1 log10PFU/ml),F
+CHEMBL4056706,CHEMBL4052722,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus LIVP harboring GFP infected in African green monkey CV1 cells assessed as virus titer preincubated with cells for 4 hrs followed by viral infection measured after 48 hrs by gentian violet staining-based microscopic analysis,F
+CHEMBL4056712,CHEMBL4052722,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus LIVP harboring GFP infected in African green monkey CV1 cells assessed as inhibition of GFP expression at 30 to 50 uM preincubated for 4 hrs with cells followed by viral infection measured after 24 hrs by flow cytometric analysis relative to control,F
+CHEMBL4124851,CHEMBL4118253,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as inhibition of virus-induced cytopathicity,F
+CHEMBL4135026,CHEMBL4130485,Vero 76,Vaccinia virus Lister,Antiviral activity against Vaccinia virus Lister ATCC VR 1549 infected in African green monkey Vero 76 cells assessed as protection against virus-induced cytopathic effect after 3 days by crystal violet staining-based plaque reduction assay,F
+CHEMBL4147081,CHEMBL4145483,Vero 76,Vaccinia virus Lister,Antiviral activity against Vaccinia virus Lister ATCC VR 1549 infected in African green monkey Vero 76 cells after 3 days by plaque reduction assay,F
+CHEMBL4155836,CHEMBL4152296,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL299 cells assessed as inhibition of virus-induced cytopathic effect after 3 to 6 days by MTS assay,F
+CHEMBL4196864,CHEMBL4196014,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as reduction in viral cytopathic effect,F
+CHEMBL4223352,CHEMBL4219208,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in HFF cells,F
+CHEMBL4260272,CHEMBL4257560,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in African green monkey Vero cells assessed as inhibition of viral reproduction after 4 days by neural red dye-based assay,F
+CHEMBL4269063,CHEMBL4265975,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as inhibition of virus-induced cytopathic effect after 3 days by microscopic method,F
+CHEMBL4274715,CHEMBL4270599,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lederle infected in HELF cells assessed as inhibition of virus-induced cytopathogenicity,F
+CHEMBL4336403,CHEMBL4334462,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in human HFF cells,F
+CHEMBL4336428,CHEMBL4334462,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HFF cells,F
+CHEMBL4369494,CHEMBL4368876,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in African green monkey Vero cells assessed as inhibition of viral replication after 4 days by neural red dye-based spectrophotometric method,F
+CHEMBL4409491,CHEMBL4406859,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HELF cells assessed as reduction in virus-induced cytopathogenicity incubated for 7 days by microscopic analysis,F
+CHEMBL4700293,CHEMBL4699424,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in African green monkey Vero cells assessed as reduction in cell survival incubated for 4 days by neutral red dye based colorimetric analysis,F
+CHEMBL4700300,CHEMBL4699424,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL4700301,CHEMBL4699424,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus assessed as reduction in viral reproduction at 2 ug/ml after 3 hrs relative to control,F
+CHEMBL4700302,CHEMBL4699424,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus assessed as reduction in viral reproduction at 2 ug/ml relative to control,F
+CHEMBL4716176,CHEMBL4715693,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells assessed as reduction in virus-induced cytopathic effect incubated for 3 to 6 days by light microscopic analysis,F
+CHEMBL4771189,CHEMBL4765355,,Orthopoxvirus vaccinia,Inhibition of N7-MTase activity of Vaccinia virus mRNA capping enzyme D1/D12 complex using GpppAC4 and [3H]SAM as substrate at 50 uM preincubated with enzyme followed by substrate addition and measured after 30 mins by filter binding assay,B
+CHEMBL4771201,CHEMBL4765355,,Orthopoxvirus vaccinia,Inhibition of 2'-O-methyltransferase activity of Vaccinia virus VP39 at 200 uM,B
+CHEMBL4809342,CHEMBL4808183,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL4838274,CHEMBL4837211,Vero,Orthopoxvirus vaccinia,Inhibition of p37 in Vaccinia virus Copenhagen infected in African green monkey Vero cells assessed as reduction in viral reproduction incubated for 4 days by neutral red dye based colorimetric analysis,B
+CHEMBL5109846,CHEMBL5108006,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in HEL cells assessed as reduction in virus-induced cytopathic effect by microscopic analysis,F
+CHEMBL5131594,CHEMBL5131375,HepG2,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus infected in human HepG2 cells assessed as reduction in plaque formation,F
+CHEMBL5131779,CHEMBL5131375,,Orthopoxvirus vaccinia,Antiviral activity against VACV,F
+CHEMBL5131860,CHEMBL5131375,,Orthopoxvirus vaccinia,Antiviral activity against vaccinia virus infected in cells assessed as viral infection at 10 uM,F
+CHEMBL5150220,CHEMBL5149963,,Orthopoxvirus vaccinia,"In vivo antiviral activity against Vaccinia virus infected in mouse assessed as reduction in virus severity of virus induced tail lesion at 250 mg/kg, po measured after 24 to 48 hrs relative to control",F
+CHEMBL5165371,CHEMBL5154878,,Orthopoxvirus vaccinia,Inhibition of Vaccinia virus mRNA-capping enzyme D1/D12 subunit complex expressed in Escherichia coli C2566 at upto 50 uM,B
+CHEMBL5165375,CHEMBL5154878,,Orthopoxvirus vaccinia,Inhibition of Vaccinia virus VP39 expressed in Escherichia coli C2566 at upto 50 uM,B
+CHEMBL5225279,CHEMBL5223146,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in Vero cells measured after 4 days by colorimetric assay,F
+CHEMBL5263952,CHEMBL5260833,MT4,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human MT4 cells measured after 5 days by MTT assay,F
+CHEMBL5263980,CHEMBL5260833,E6SM,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human E6SM cells,F
+CHEMBL5332012,CHEMBL5331057,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus assessed as reduction in virus-induced cytopathic effect,F
+CHEMBL5349941,CHEMBL5346934,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey Vero cells assessed as reduction virus induced cytopathic effect incubated for 24 hrs by MTT assay,F
+CHEMBL5349942,CHEMBL5346934,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in HFF cells measured after 3 days by colorimetric assay,F
+CHEMBL5349943,CHEMBL5346934,Vero,Orthopoxvirus vaccinia,Antiviral activity against wild type Vaccinia virus infected in African monkey Vero cells measured after 5 days by MTT assay,F
+CHEMBL5349945,CHEMBL5346934,Vero,Orthopoxvirus vaccinia,Antiviral activity against cidofovir-resistant Vaccinia virus infected in African monkey Vero cells measured after 5 days by MTT assay,F
+CHEMBL5349946,CHEMBL5346934,Vero,Orthopoxvirus vaccinia,Antiviral activity against tecovirimat-resistant Vaccinia virus infected in African monkey Vero cells measured after 5 days by MTT assay,F
+CHEMBL5349947,CHEMBL5346934,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Lister infected in human HEL cells assessed as virus-induced cytopathic effect measured after 5 days by microscopic analysis,F
+CHEMBL5349950,CHEMBL5346934,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HFF cells measured after 4 days by colorimetric assay,F
+CHEMBL5349951,CHEMBL5346934,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HFF cells,F
+CHEMBL5349955,CHEMBL5346934,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in Vero cells measured after 4 days by colorimetric assay,F
+CHEMBL5349956,CHEMBL5346934,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in African green monkey Vero cells measured after 4 days by colorimetric assay,F
+CHEMBL5349958,CHEMBL5346934,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in African green monkey Vero cells,F
+CHEMBL5349962,CHEMBL5346934,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey Vero cells,F
+CHEMBL5349963,CHEMBL5346934,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HEL cells,F
+CHEMBL5349967,CHEMBL5346934,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey BSC-1 cells incubated for 24 hrs by microscopic analysis,F
+CHEMBL5349968,CHEMBL5346934,BSC40,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in monkey BSC40 cells assessed as reduction in virus-induced cytopathic effect,F
+CHEMBL5349969,CHEMBL5346934,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in human HFF cells assessed as assessed as reduction in virus-induced cytopathic effect incubated for 7 days by microscopic analysis,F
+CHEMBL5349972,CHEMBL5346934,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey Vero cells incubated for 24 hrs,F
+CHEMBL5349973,CHEMBL5346934,CV-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey CV-1 cells assessed as reduction in virus-induced cytopathic effect incubated for 5 days by colorimetric analysis,F
+CHEMBL5349975,CHEMBL5346934,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in African green monkey BSC-1 cells,F
+CHEMBL5349976,CHEMBL5346934,BSC-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus VG9 infected in African green monkey BSC-1 cells,F
+CHEMBL5349980,CHEMBL5346934,BSC40,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus IHD-J infected in BSC40 cells assessed as reduction in plaque formation measured after 72 hrs by crystal violet staining based analysis,F
+CHEMBL5349981,CHEMBL5346934,BSC40,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus WR-GFP infected in BSC40 cells assessed as reduction in plaque formation measured after 72 hrs by crystal violet staining based analysis,F
+CHEMBL5349982,CHEMBL5346934,CV-1,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus GFP infected in green monkey CV-1 cells assessed as reduction in plaque formation measured after 2.5 days by microscopic analysis,F
+CHEMBL5349983,CHEMBL5346934,HT-1080,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus GFP infected in green monkey HT-1080 cells assessed as reduction in plaque formation measured after 2.5 days by microscopic analysis,F
+CHEMBL5349984,CHEMBL5346934,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus infected in human HFF cells assessed as reduction in plaque formation measured after 7 days by colorimetric assay,F
+CHEMBL5349985,CHEMBL5346934,HFF,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in human HFF cells assessed as reduction in viral replication measured after 3 days,F
+CHEMBL5349986,CHEMBL5346934,HFF,Orthopoxvirus vaccinia,Antiviral activity against Cowpox virus Brighton infected in human HFF cells assessed as reduction in viral replication measured after 3 days,F
+CHEMBL5349987,CHEMBL5346934,HFF,Orthopoxvirus vaccinia,Antiviral activity against wild type Vaccinia virus infected in human HFF cells assessed as reduction in viral replication measured after 5 days by microscopic analysis,F
+CHEMBL5349988,CHEMBL5346934,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus IHD infected in African green monkey Vero cells assessed as reduction in plaque formation measured after 7 days,F
+CHEMBL5349989,CHEMBL5346934,LLC-MK2,Orthopoxvirus vaccinia,Antiviral activity against wild type Vaccinia virus IHD infected in monkey Vero cells assessed as reduction in plaque formation measured after 7 days,F
+CHEMBL5515752,CHEMBL5512660,HEL,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus strain YS/R infected in human HEL cells assessed as reduction in plaque formation measured after 3 days,F
+CHEMBL5625829,CHEMBL5625166,Vero,Orthopoxvirus vaccinia,Antiviral activity against VACV infected in Vero cells assessed as reduction in cytopathic effect incubated for 96 hrs by neutral red based spectrophotometric analysis,F
+CHEMBL5625832,CHEMBL5625166,A549,Orthopoxvirus vaccinia,Antiviral activity against VACV infected in A549 cells assessed as reduction in cytopathic effect incubated for 96 hrs by neutral red based spectrophotometric analysis,F
+CHEMBL5731564,CHEMBL5725833,,Orthopoxvirus vaccinia,"Processive DNA synthesis assay: Processive DNA synthesis was assessed by two types of assays: the Rapid Plate Assay and the M13 assay. The Rapid Plate Assay was performed as previously described. Briefly, a 5′-biotinylated 100-nucleotide template that contains adenines only at its 5′ distal end was annealed with a 15-nucleotide primer to its 3′ end and attached to streptavidin-coated 96-plate wells (Roche Applied Science). DNA synthesis was carried out in 50 μL reaction mixture containing 100 mM (NH)2S04, 20 mM Tris-HCl (pH 7.5), 3 mM MgCl2, 0.1 mM EDTA, 0.5 mM DTT, 2% glycerol, 40 μg/ml BSA, 5 μM dATP, 5 μM dCTP, 5 μM dGTP, 1 μM digoxigenin-11-dUTP, and E9/A20/D4 proteins. The TNT reticulocyte lysate or in vitro translated luciferase was used as a negative control. After incubation at 37° C. for 30 min, the plate was washed extensively with phosphate-buffered saline (PBS). The wells were then incubated with anti-digoxigenin-peroxidase antibody (Roche) for 1 h at 37° C., followed by washing with PBS. The substrate 2,2′-azino-bis(3-ethylbenzthiazoline)-sulfonate (Roche) was added, and plates were gently rocked to allow color development. DNA synthesis was quantified by measuring the absorbance of each reaction at 405 nm with a microplate reader (Tecan).",B
+CHEMBL6092367,CHEMBL6092128,Vero,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus Copenhagen infected in African green monkey Vero cells assessed as inhibition of virus-induced cytotoxicity incubated for 4 days by neutral red dye uptake based spectrophotometric analysis,F
+CHEMBL6115819,CHEMBL6114962,,Orthopoxvirus vaccinia,Antiviral activity against Vaccinia virus,F
+CHEMBL656034,CHEMBL1127480,CV-1,Cercopithecidae,Inhibition of p24 expression was measured at 1 uM using vaccinia virus vVK/CV-1 assay; Inactive,F
+CHEMBL658489,CHEMBL1127224,CV-1,Human immunodeficiency virus 1,Antiviral efficacy measured by a hybrid HIV-l/vaccinia virus infected monkey cell line (HIV- l/vVK-1 infected CV- 1) which produces HIV-1 gag-pol derived polyproteins,F
+CHEMBL658492,CHEMBL1127224,CV-1,Human immunodeficiency virus 1,Antiviral efficacy measured by a hybrid HIV-l/vaccinia virus infected monkey cell line (HIV- l/vVK-1 infected CV- 1) which produces HIV-1 gag-pol derived polyproteins at 10 uM concentration,F
+CHEMBL658540,CHEMBL1125602,CV-1,Cercopithecidae,The compound was tested for its antiviral activity against vaccinia virus in CV-1 monkey cells at 10 uM,F
+CHEMBL670618,CHEMBL1130007,E6SM,Homo sapiens,Minimum inhibitory conc. for 50% inhibition of vaccinia virus induced cytopathicity in E6SM cells,F
+CHEMBL671233,CHEMBL1135216,E6SM,Homo sapiens,Tested for antiviral activity against vaccinia virus in human embryonic skin muscle fibroblast,F
+CHEMBL671234,CHEMBL1135216,E6SM,Homo sapiens,Tested for antiviral activity against vaccinia virus in human embryonic skin muscle fibroblast,F
+CHEMBL671238,CHEMBL1127375,E6SM,Homo sapiens,Tested for the antiviral activity against Vaccinia virus in human E6SM cells,F
+CHEMBL673364,CHEMBL1133111,,,Inhibitory activity against human recombinant vaccinia H1 related phosphatase (Dual specificity protein phosphatase 3),B
+CHEMBL879576,CHEMBL1128256,E6SM,Homo sapiens,Tested for the minimum inhibitory concentration required to reduce vaccinia virus(VV) induced cytopathogenicity by 50%,F
+CHEMBL671426,CHEMBL1128256,E6SM,Homo sapiens,Tested for the minimum inhibitory concentration required to reduce vaccinia virus(VV) induced cytopathogenicity by 50%.,F
+CHEMBL672197,CHEMBL1127654,E6SM,Homo sapiens,Minimal inhibitory concentration (MIC) required to reduce VV (vaccinia virus) cytopathicity in E6SM cells,F
+CHEMBL675939,CHEMBL1128260,E6SM,Homo sapiens,The minimum inhibitory concentration required to reduce Vaccinia virus induced cytopathicity by 50% in E6SM cells,F
+CHEMBL674320,CHEMBL1134563,E6SM,,Effective concentration required to inhibit Vaccinia virus-induced cytopathicity by 50% in E6SM cell lines,F
+CHEMBL674929,CHEMBL1131121,E6SM,Homo sapiens,concentration required to inhibit vaccinia virus-induced cytopathicity by 50% in E6SM cells,F
+CHEMBL857935,CHEMBL1125440,E6SM,Homo sapiens,Compounds was evaluated for its inhibitory effect on cytopathogenicity of vaccinia virus (VV) in E6SM cells,F
+CHEMBL671183,CHEMBL1126836,E6SM,Homo sapiens,Tested for minimum inhibitory concentration against Vaccinia virus in E6SM cells,F
+CHEMBL677627,CHEMBL1128776,E6SM,Homo sapiens,In vitro antiviral activity in E6 cell cultures against vaccinia virus (VV),F
+CHEMBL676087,CHEMBL1128776,E6SM,Homo sapiens,Evaluated in vitro for its antiviral activity in E6 cell cultures against vaccinia virus (VV),F
+CHEMBL676336,CHEMBL1123468,E6SM,Homo sapiens,The compound was tested for its antiviral activity against vaccinia virus in E6SM cell culture,F
+CHEMBL674405,CHEMBL1126453,E6SM,,Minimum antiviral concentration required to reduce virus-induced cytopathogenicity against Vaccinia virus in E6SM cells,F
+CHEMBL674406,CHEMBL1126453,E6SM,,Minimum antiviral concentration required to reduce virus-induced cytopathogenicity against vaccinia virus in E6SM cells,F
+CHEMBL677668,CHEMBL1134545,E6SM,Cercopithecidae,Antiviral activity against Vaccinia virus in E6SM cell cultures,F
+CHEMBL677669,CHEMBL1134545,E6SM,Cercopithecidae,Antiviral activity against Vaccinia virus in E6SM cell cultures,F
+CHEMBL676622,CHEMBL1129341,E6SM,Homo sapiens,Cytotoxic activity against vaccinia virus in E6SM Cells,F
+CHEMBL674395,CHEMBL1130413,E6SM,Homo sapiens,50% Minimum inhibitory concentration which is required to reduce cytopathogenicity induced by Vaccinia virus (VV) on human E6SM cells.,F
+CHEMBL678871,CHEMBL1153258,E6SM,Homo sapiens,Antiviral activity (to reduce virus-induced cytopathogenicity) against Vaccinia virus in E6SM cell cultures,F
+CHEMBL677500,CHEMBL1123468,E6SM,Homo sapiens,The compound was tested for its antiviral activity against vaccinia virus in E6SM cell culture,F
+CHEMBL679130,CHEMBL1125440,E6SM,Homo sapiens,Compounds was evaluated for its inhibitory effect on cytopathogenicity of vaccinia virus (VV) in E6SM cells,F
+CHEMBL679134,CHEMBL1126305,E6SM,,Minimum inhibitory concentration required to reduce virus induced cytopathicity by 50% was determined against vaccinia virus in E6SM cells,F
+CHEMBL679139,CHEMBL1127215,E6SM,,Tested for antiviral activity against vaccinia in E6SM cells,F
+CHEMBL676608,CHEMBL1126074,,Homo sapiens,Concentration required to reduce vaccinia virus(VV) induced cytopathogenicity by 50% in ESM(embryonic skin muscle) cell cultures.,F
+CHEMBL679415,CHEMBL1145896,HEL,herpes simplex virus,Antiviral activity against vaccinia virus in HEL (human erythroleukemia) cells.,F
+CHEMBL686574,CHEMBL1122656,HEp-2,Homo sapiens,In vitro inhibition of cytopathogenicity induced by Lederle Chorioallantoic strain of vaccinia virus replicating in human epidermoid carcinoma,F
+CHEMBL686575,CHEMBL1122656,HEp-2,Homo sapiens,In vitro inhibition of cytopathogenicity induced by Lederle Chorioallantoic strain of vaccinia virus replicating in human epidermoid carcinoma no.2 (H.Ep-2) cells,F
+CHEMBL686578,CHEMBL1122656,HEp-2,Homo sapiens,In vitro inhibition of cytopathogenicity induced by Lederle Chorioallantoic strain of vaccinia virus replicating in human epidermoid carcinoma,F
+CHEMBL686579,CHEMBL1122656,HEp-2,Homo sapiens,In vitro inhibition of cytopathogenicity induced by Lederle Chorioallantoic strain of vaccinia virus replicating in human epidermoid carcinoma no.2 (H.Ep-2) cells,F
+CHEMBL692147,CHEMBL1122187,HEp-2,Homo sapiens,"In vitro antiviral activity against vaccinia(VV) virus was determined in human laryngeal epithelioma (HEp-2,H)expressed as virus rating. Toxic level(100 ug/mL)",F
+CHEMBL692148,CHEMBL1122187,HEp-2,Homo sapiens,"In vitro antiviral activity against vaccinia(VV) virus was determined in human laryngeal epithelioma (HEp-2,H)expressed as virus rating. Toxic level(320 ug/mL)",F
+CHEMBL692149,CHEMBL1122187,HEp-2,Homo sapiens,"In vitro antiviral activity against vaccinia(VV) virus was determined in human laryngeal epithelioma (HEp-2,H)expressed as virus rating. Toxic level (320 ug/mL)",F
+CHEMBL692150,CHEMBL1122187,HEp-2,Homo sapiens,"In vitro antiviral activity against vaccinia(VV) virus was determined in human laryngeal epithelioma (HEp-2,H)expressed as virus rating. Toxic level(>1000 ug/mL)",F
+CHEMBL686414,CHEMBL1129609,HEF,Homo sapiens,Antiviral activity of compound was tested against vaccinia virus infected HEF cell lines.,F
+CHEMBL689568,CHEMBL1127450,HEF,Homo sapiens,Tested for minimum inhibitory concentration required to reduce virus-induced cytopathicity by 50% on HEF cell line infected with vaccinia virus,F
+CHEMBL689199,CHEMBL1127450,HEF,Homo sapiens,tested for minimum inhibitory concentration required to reduce virus-induced cytopathicity by 50% on HEF cell line infected with vaccinia virus,F
+CHEMBL692744,CHEMBL1144911,HFF,Homo sapiens,Cytotoxic concentration for 50% inhibition of cell growth of vaccinia virus infected HFF cells determined by CPE assay,F
+CHEMBL692745,CHEMBL1144911,HFF,Homo sapiens,Cytotoxic concentration for 50% inhibition of cell growth of vaccinia virus infected HFF cells determined by VPR assay,F
+CHEMBL693667,CHEMBL1144911,HFF,Homo sapiens,Concentration to reduce vaccinia virus plaque reduction (VPR) by 50% in HFF cells,F
+CHEMBL693673,CHEMBL1144911,HFF,Homo sapiens,Inhibitory concentration to reduce vaccinia virus induced cytopathogenic effect by 50% in HFF cells,F
+CHEMBL691830,CHEMBL1128227,HEL,Homo sapiens,Antiviral activity was determined against Vaccinia virus in HEL cells by measuring concentration required to reduce virus induced cytopathogenicity by 50%.,F
+CHEMBL699283,CHEMBL1122187,HEp-2,Homo sapiens,"In vitro antiviral activity against vaccinia(VV) virus was determined in human laryngeal epithelioma (HEp-2,H)expressed as virus rating. Toxic level(100 ug/mL)",F
+CHEMBL695973,CHEMBL1124422,HeLa,Homo sapiens,In vitro antiviral activity against Vaccinia virus (Elstree strain) cell line in HeLa cells,F
+CHEMBL693843,CHEMBL1124280,HeLa,Homo sapiens,Minimum cytotoxic concentration against vaccinia virus in aneuploid (Hela) human cells,F
+CHEMBL695716,CHEMBL1124280,HeLa,Homo sapiens,Minimum inhibitory concentration against vaccinia virus in aneuploid (Hela) human cells,F
+CHEMBL695985,CHEMBL1124280,,Homo sapiens,Minimum inhibitory concentration against vaccinia virus in diploid (E6SM) human cell culture,F
+CHEMBL701504,CHEMBL1144911,,Homo sapiens,Cytotoxic concentration that produces 50% growth inhibition of human skin fibroblast in CPE assay of vaccinia virus,F
+CHEMBL699634,CHEMBL1144911,,Homo sapiens,Cytotoxic concentration that produces 50% growth inhibition of human skin fibroblast in VPR assay of vaccinia virus,F
+CHEMBL884409,CHEMBL1144911,,Homo sapiens,Inhibitory concentration required to reduce vaccinia virus induced cytopathogenic effect (CPE) in human skin fibroblast,F
+CHEMBL699645,CHEMBL1144911,,Homo sapiens,Inhibitory concentration required to reduce vaccinia virus induced virus plaque reduction (VPR) in human skin fibroblast,F
+CHEMBL702207,CHEMBL1126742,L929,Mus musculus,Inhibitory concentration (reduction in cytopathic effect) against vaccinia virus (L-929 cell line),F
+CHEMBL702209,CHEMBL1126742,L929,Mus musculus,Minimum toxic concentration against vaccinia virus (L-929 cell line),F
+CHEMBL702211,CHEMBL1126742,L929,Mus musculus,Virus rating against vaccinia virus (L-929 cell line),F
+CHEMBL702215,CHEMBL1123111,L929,Mus musculus,Ability to inhibit Vaccinia virus plaque formation after 72 hr in monolayer cultures of mouse L-929 cells,F
+CHEMBL706811,CHEMBL1121681,Laryngeal epithelioma cell line,Homo sapiens,In vitro antiviral activity against Vaccinia virus human laryngeal epithelioma cell line / 100 toxic level,F
+CHEMBL706265,CHEMBL1121681,Laryngeal epithelioma cell line,Homo sapiens,In vitro antiviral activity against vaccinia virus human laryngeal epithelioma cell line / 320 toxic level,F
+CHEMBL703844,CHEMBL1136368,LLC-MK2,Cercopithecidae,Antiviral activity was measured against Vaccinia virus VAC in LLC-MK2 (ATCC CRL 7) cell,F
+CHEMBL872615,CHEMBL1136368,,Cercopithecidae,Cytotoxicity was measured against Vaccinia virus VAC in LLC-MK2 (ATCC CRL 7) cell,F
+CHEMBL731482,CHEMBL1122162,,Mus musculus,Effect in mouse infected with vaccinia virus; observed effects seen,F
+CHEMBL740198,CHEMBL1124512,,Mus musculus,In vivo anti-viral activity against Vaccinia tailpox mice model at dose 300 mg/kg (tested on 20 mice - Experiment 1),F
+CHEMBL878524,CHEMBL1124512,,Mus musculus,In vivo anti-viral activity against Vaccinia tailpox mice model at dose 300 mg/kg (tested on 20 mice - Experiment 2),F
+CHEMBL740199,CHEMBL1124512,,Mus musculus,In vivo anti-viral activity against Vaccinia tailpox mice model at dose 4 mg/kg (tested on 20 mice - Experiment 2),F
+CHEMBL739273,CHEMBL1124512,,Mus musculus,In vivo anti-viral activity against Vaccinia tailpox mice model at dose 8 mg/kg (tested on 19 mice - Experiment 2),F
+CHEMBL739274,CHEMBL1124512,,Mus musculus,In vivo anti-viral activity against Vaccinia tailpox mice model at dose 8 mg/kg (tested on 20 mice - Experiment 1),F
+CHEMBL738468,CHEMBL1122162,,Mus musculus,Minimum Inhibitory concentration of the drug required for 50% inhibition of vaccinia virus (strain Lederle chorioallantoic) -induced cytopathogenic effects in infected cell cultures.,F
+CHEMBL738469,CHEMBL1122162,,Mus musculus,Minimum Inhibitory concentration of the drug required for 50% inhibition vaccinia virus (strain Lederle chorioallantoic)-induced cytopathogenic effects in infected cell cultures.,F
+CHEMBL746109,CHEMBL1122162,Fibroblast,Mus musculus,"In vitro antiviral activity against vaccinia virus (strain Lederle chorioallantoic) grown in mouse fibroblasts cells, clone L-929, expressed as VR",F
+CHEMBL762718,CHEMBL1121880,PRK,Oryctolagus cuniculus,Compound was evaluated for antiviral activity in rabbit kidney cells infected with vaccinia virus,F
+CHEMBL871702,CHEMBL1121632,,Oryctolagus cuniculus,Concentration required to reduce vaccinia virus induced cytogenicity in primary rabbit kidney (PRK),F
+CHEMBL765625,CHEMBL1121632,,Oryctolagus cuniculus,Concentration required to reduce vaccinia virus induced cytogenicity in primary rabbit kidney (PRK); Range is 0.1-0.2,F
+CHEMBL765634,CHEMBL1123394,kidney,Oryctolagus cuniculus,Antiviral activity was measured against Vaccinia virus in rabbit kidney cells.,F
+CHEMBL762796,CHEMBL1123394,kidney,Oryctolagus cuniculus,Antiviral activity was measured against vaccinia virus in rabbit kidney cells.,F
+CHEMBL857808,CHEMBL1125540,kidney,Oryctolagus cuniculus,Evaluation for antiviral activity against vaccinia virus in primary rabbit kidney cell cultures(PRK) (Concentration required to reduce virus-induced cytopathogenicity by 50%),F
+CHEMBL762321,CHEMBL1125587,HeLa,Oryctolagus cuniculus,"Concentration (MIC), which is required to reduce virus-induced cytopathogenicity in HeLa cells of Primary rabbit kidney (PRK ) cells against DNA viruses including Vaccinia virus",F
+CHEMBL762322,CHEMBL1125587,,Oryctolagus cuniculus,"Concentration (MIC), which is required to reduce virus-induced cytopathogenicity in Primary rabbit kidney (PRK ) cells against Vaccinia virus",F
+CHEMBL768555,CHEMBL1124559,kidney,Oryctolagus cuniculus,Antiviral activity against Vaccinia virus in primary rabbit kidney cell cultures,F
+CHEMBL767244,CHEMBL1122479,PRK,,Concentration required to reduce Vaccinia virus induced cytopathogenicity in primary rabbit kidney (PRK) cell cultures,F
+CHEMBL767928,CHEMBL1121399,,Oryctolagus cuniculus,Tested for its antiviral activity in primary rabbit kidney (PRK) cell cultures inoculated with vaccinia virus,F
+CHEMBL773323,CHEMBL1122219,kidney,Oryctolagus cuniculus,Minimum inhibitory concentration required to reduce virus induced cytopathogenicity in primary rabbit kidney cell cultures by 50% against Vaccinia virus,F
+CHEMBL775764,CHEMBL1124895,kidney,Oryctolagus cuniculus,Antiviral Activity against vaccinia virus in rabbit kidney cell,F
+CHEMBL857724,CHEMBL1124280,kidney,Oryctolagus cuniculus,Antiviral activity in primary rabbit kidney cell cultures against vaccinia virus,F
+CHEMBL772654,CHEMBL1123679,kidney,Oryctolagus cuniculus,Minimal inhibitory concentration against vaccinia virus-induced cytopathogenicity by 50% in rabbit kidney cell cultures,F
+CHEMBL817072,CHEMBL1126742,Vero,Chlorocebus sabaeus,Inhibitory concentration (reduction in cytopathic effect) against vaccinia virus (vero cell line),F
+CHEMBL815934,CHEMBL1125955,Vero,Chlorocebus sabaeus,Minimum inhibitory concentration (antiviral activity) was screened in Vero cells against vaccinia virus (VV),F
+CHEMBL815808,CHEMBL1126742,Vero,Chlorocebus sabaeus,Minimum toxic concentration against vaccinia virus (vero cell line),F
+CHEMBL819626,CHEMBL1126742,Vero,Chlorocebus sabaeus,Virus rating against vaccinia virus ( vero cell line),F
+CHEMBL819627,CHEMBL1126742,Vero,Chlorocebus sabaeus,Virus rating against vaccinia virus (vero cell line),F
+CHEMBL819632,CHEMBL1122187,Vero,Chlorocebus sabaeus,"In vitro antiviral activity against vaccinia(VV) virus was determined in african green monkey kidney (vero,V) expressed as virus rating",F
+CHEMBL818825,CHEMBL1122187,Vero,Chlorocebus sabaeus,"In vitro antiviral activity against vaccinia(VV) virus was determined in african green monkey kidney (vero,V) expressed as virus rating. Toxic level(100 ug/mL)",F
+CHEMBL818826,CHEMBL1122187,Vero,Chlorocebus sabaeus,"In vitro antiviral activity against vaccinia(VV) virus was determined in african green monkey kidney (vero,V) expressed as virus rating. Toxic level(1000 ug/mL)",F
+CHEMBL819769,CHEMBL1121681,Vero,Chlorocebus sabaeus,In vitro antiviral activity against Vaccinia virus in (vero) V cells of african green monkey kidney / 320 toxic level,F
+CHEMBL819770,CHEMBL1121681,Vero,Chlorocebus sabaeus,In vitro antiviral activity against vaccinia virus in (vero) V cells of african green monkey kidney / 320 toxic level,F
+CHEMBL819512,CHEMBL1137841,,,Tested for effect on inhibition of DSP VH1 (dual-specificity phosphatase vaccinia open reading frame H1),B
+CHEMBL819513,CHEMBL1137841,,,Tested for effect on inhibition of DSP VH1 (dual-specificity phosphatase vaccinia open reading frame H1) and the value reported is equilibrium constant,B
+CHEMBL819514,CHEMBL1137841,,,Tested for effect on inhibition of DSP VH1 (dual-specificity phosphatase vaccinia open reading frame H1) and the value reported is overall equilibrium constant,B
+CHEMBL819516,CHEMBL1134613,,,Inhibitory activity against vaccinia VH1-related phosphatase (VHR),B
+CHEMBL821102,CHEMBL1122187,Vero,Chlorocebus sabaeus,"In vitro antiviral activity against vaccinia virus(VV) virus was determined in african green monkey kidney (vero,V) expressed as virus rating. Toxic level(32 ug/mL); c=Not determined",F
+CHEMBL821103,CHEMBL1122187,Vero,Chlorocebus sabaeus,"In vitro antiviral activity against vaccinia virus(VV) virus was determined in african green monkey kidney (vero,V) expressed as virus rating. Toxic level(>1000 ug/mL); c=Not determined",F
+CHEMBL821104,CHEMBL1122187,Vero,Chlorocebus sabaeus,"In vitro antiviral activity against vaccinia(VV) virus was determined in african green monkey kidney (vero,V) expressed as virus rating.",F
+CHEMBL821105,CHEMBL1122187,Vero,Chlorocebus sabaeus,"In vitro antiviral activity against vaccinia(VV) virus was determined in african green monkey kidney (vero,V) expressed as virus rating. Toxic level(1000 ug/mL)",F
+CHEMBL818437,CHEMBL1122187,Vero,Chlorocebus sabaeus,"In vitro antiviral activity against vaccinia(VV) virus was determined in african green monkey kidney (vero,V) expressed as virus rating. Toxic level(320 ug/mL)",F
+CHEMBL818438,CHEMBL1122187,Vero,Chlorocebus sabaeus,"In vitro antiviral activity against vaccinia(VV) virus was determined in african green monkey kidney (vero,V) expressed as virus rating. Toxic level(320 ug/mL); c=Not determined",F
+CHEMBL818439,CHEMBL1122187,Vero,Chlorocebus sabaeus,"In vitro antiviral activity against vaccinia(VV) virus was determined in african green monkey kidney (vero,V) expressed as virus rating. Toxic level(>1000 ug/mL)",F
+CHEMBL881106,CHEMBL1123333,Vero,Chlorocebus sabaeus,Compound was tested for antiviral activity against vaccinia,F
+CHEMBL818723,CHEMBL1123095,Vero,Chlorocebus sabaeus,In vitro antiviral activity against vaccinia virus was evaluated.,F
+CHEMBL820900,CHEMBL1150546,Vero,Chlorocebus sabaeus,Compound was tested for antiviral activity against vaccinia virus in Vero cells.,F
+CHEMBL823657,CHEMBL1123818,kidney,Oryctolagus cuniculus,Compound was tested for antiviral activity against Vaccinia virus in primary rabbit kidney cells,F
+CHEMBL816341,CHEMBL1136368,Vero,Chlorocebus sabaeus,Antiviral activity was measured against Vaccinia virus VAC in Vero 76 (ATCC CRL 1587) cell,F
+CHEMBL816346,CHEMBL1136368,Vero,Chlorocebus sabaeus,Cytotoxicity was measured against Vaccinia virus VAC in Vero 76 (ATCC CRL 1587) cell,F
+CHEMBL820754,CHEMBL1123333,Vero,Chlorocebus sabaeus,Virus rating against vaccinia,F
+CHEMBL820760,CHEMBL1122763,Vero,Chlorocebus sabaeus,Virus rating was determined by comparing cytopathic effect against vero cells after infection with Vaccinia virus,F
+CHEMBL818821,CHEMBL1124280,Vero,Chlorocebus sabaeus,Minimum inhibitory concentration against vaccinia virus in vero cells of African green monkey kidney,F
+CHEMBL824118,CHEMBL1124280,HeLa,Homo sapiens,Minimum cytotoxic concentration against vaccinia virus in aneuploid (Hela) human cells,F
+CHEMBL824119,CHEMBL1124280,HeLa,Homo sapiens,Minimum inhibitory concentration against vaccinia virus in aneuploid (Hela) human cells,F
+CHEMBL823400,CHEMBL1123770,kidney,Oryctolagus cuniculus,Minimum inhibitory concentration (MIC) required to reduce virus-induced cytopathogenicity by 50% against Vaccinia virus in primary rabbit kidney cells,F
+CHEMBL844069,CHEMBL1124622,kidney,Oryctolagus cuniculus,Minimum inhibitory concentration against Vaccinia virus in primary rabbit kidney cell cultures,F
+CHEMBL848655,CHEMBL1124280,Vero,Chlorocebus sabaeus,Minimum inhibitory concentration against vaccinia virus in vero cells of African green monkey kidney,F
+CHEMBL848660,CHEMBL1135471,,Vesicular stomatitis virus,"Minimum cytotoxic concentration against vaccinia virus, was determined",F
+CHEMBL839006,CHEMBL1144911,,,Selectivity index calculated as CC50/EC50 in the study of VPR assay of vaccinia virus,F
+CHEMBL839009,CHEMBL1144911,,,Selectivity index calculated as CC50/EC50 in the study of cytopathogenic effect by vaccinia virus,F
+CHEMBL840233,CHEMBL1136368,,,Therapeutic index was measured against Vaccinia virus VAC in LLC-MK2 (ATCC CRL 7) cell as the ratio of IC50/EC50,A
+CHEMBL882552,CHEMBL1136368,Vero 76,,Therapeutic index was measured against Vaccinia virus VAC in Vero 76 (ATCC CRL 1587) cell as the ratio of IC50/EC50,A
+CHEMBL850521,CHEMBL1124512,Vero,,Ratio of minimum toxic compound concentration to inhibitory dose against vaccinia viral strain Lederle CA in vero cell line,F
+CHEMBL835086,CHEMBL1143612,HFF,Homo sapiens,Ratio of Effective concentration to inhibit vaccinia virus plaque formation to that of half maximal cytotoxic concentration in human foreskin fibroblast (HFF) cells,F
+CHEMBL837419,CHEMBL1145143,Vero 76,,"Cytotoxic concentration against cowpox, monkeypox and vaccinia virus in vero 76 cells",F
+CHEMBL833305,CHEMBL1138797,E6SM,Homo sapiens,Effective concentration required to reduce vaccinia virus plaque formation by 50% in E6SM Cell Culture,F
+CHEMBL834035,CHEMBL1140321,HEL,Homo sapiens,Concentration required to inhibit vaccinia virus induced cytopathogenicity in HEL cells by 50%,F
+CHEMBL834406,CHEMBL1143612,HFF,Homo sapiens,Effective concentration required to inhibit vaccinia virus plaque formation in human foreskin fibroblast (HFF) cells,F
+CHEMBL860528,CHEMBL1139008,HFF,,"Selectivity index, CC50 in HFF cell/ EC50 against vaccinia virus",F
+CHEMBL855402,CHEMBL1142200,HFF,,"Selectivity index, ratio of CC50 for HFF cells to EC50 for Vaccinia virus Copenhagen infected HFF cells",F
+CHEMBL855404,CHEMBL1142200,HFF,,"Selectivity index, ratio of CC50 for HFF cells to EC50 for Vaccinia virus WR infected HFF cells",F
+CHEMBL854818,CHEMBL1142200,,Mus musculus,"Effect on mortality of BALB/c mouse inoculated with Vaccinia virus WR at 100 mg/kg after 4 hrs of viral infection, po once daily for 5 days relative to control",F
+CHEMBL854819,CHEMBL1142200,,Mus musculus,"Effect on mortality of BALB/c mouse inoculated with Vaccinia virus WR at 100 mg/kg after 24 hrs of viral infection, po once daily for 5 days relative to control",F
+CHEMBL854820,CHEMBL1142200,,Mus musculus,"Effect on mortality of BALB/c mouse inoculated with Vaccinia virus WR at 15 mg/kg after 24 hrs of viral infection, ip for 5 days relative to control",F
+CHEMBL854821,CHEMBL1142200,,Mus musculus,"Effect on mortality of BALB/c mouse inoculated with Vaccinia virus WR at 100 mg/kg after 4 hrs of viral infection, po once daily for 7 days relative to control",F
+CHEMBL854822,CHEMBL1142200,,Mus musculus,"Effect on mortality of BALB/c mouse inoculated with Vaccinia virus WR at 100 mg/kg after 24 hrs of viral infection, po once daily for 7 days relative to control",F
+CHEMBL854823,CHEMBL1142200,,Mus musculus,"Effect on mortality of BALB/c mouse inoculated with Vaccinia virus WR at 100 mg/kg after 4 hrs of viral infection, po once daily for 10 days relative to control",F
+CHEMBL854824,CHEMBL1142200,,Mus musculus,"Effect on mortality of BALB/c mouse inoculated with Vaccinia virus WR at 100 mg/kg after 24 hrs of viral infection, po once daily for 10 days relative to control",F
+CHEMBL854825,CHEMBL1142200,,Mus musculus,"Effect on mortality of BALB/c mouse inoculated with Vaccinia virus WR at 100 mg/kg after 4 hrs of viral infection, po once daily for 14 days relative to control",F
+CHEMBL854826,CHEMBL1142200,,Mus musculus,"Effect on mortality of BALB/c mouse inoculated with Vaccinia virus WR at 100 mg/kg after 24 hrs of viral infection, po once daily for 14 days relative to control",F
+CHEMBL855399,CHEMBL1142200,,Mus musculus,"Effect on mortality of BALB/c mouse inoculated with Vaccinia virus WR at 50 mg/kg after 24 hrs of viral infection, po for 9 days",F
+CHEMBL920404,CHEMBL1142952,BSC-1,Homo sapiens,Inhibition of vaccinia virus system-induced human NOS expressed in BSC1 cells,B
+CHEMBL920406,CHEMBL1142952,BSC-1,Homo sapiens,"Selectivity ratio, IC50 for ecNOS/IC50 for iNOS using vaccinia virus-induced system in BSC1 cells",B
+CHEMBL920410,CHEMBL1142952,BSC-1,Homo sapiens,"Selectivity ratio, IC50 for bcNOS/IC50 for iNOS using vaccinia virus-induced system in BSC1 cells",B
+CHEMBL918574,CHEMBL1142975,BSC-40,Macaca mulatta,Cytotoxicity against vaccinia virus IHD-J infected BSC40 cells,A
+CHEMBL901914,CHEMBL1138288,Vero,,"Selectivity ratio, IC50 for vaccinia virus-infected Vero cells to IC50 for inhibition of IgE production in antigen-sensitized BALB/c mouse spleen cells",F
+CHEMBL997974,CHEMBL1137662,HFF,,"Selectivity index, ratio of CC50 for HFF cells to EC50 for Vaccinia virus WR",T
+CHEMBL997978,CHEMBL1137662,HFF,,"Selectivity index, ratio of CC50 for HFF cells to EC50 for Vaccinia virus Copenhagen",T
+CHEMBL1004220,CHEMBL1137648,HFF,,"Selectivity index, ratio CC50 for HFF cells to EC50 for Vaccinia virus Copenhagen",T
+CHEMBL1006729,CHEMBL1137648,HFF,,"Selectivity index, ratio CC50 for HFF cells to EC50 for Vaccinia virus WR",T
+CHEMBL1024885,CHEMBL1140145,BSC-1,,"Selectivity index, TC50 for african green monkey BSC1 cells after 20 hrs to EC50 for Vaccinia virus WR in BSC1 cells after 20 hrs by cell protection assay",T
+CHEMBL1024890,CHEMBL1140145,BSC-1,,"Selectivity index, TC50 for african green monkey BSC1 cells after 72 hrs to EC50 for Vaccinia virus WR in BSC1 cells after 72 hrs by cell protection assay",T
+CHEMBL1058242,CHEMBL1153616,HEL,,"Selectivity index, ratio of MCC for human HEL cells to EC50 for sVaccinia virus",T
+CHEMBL1061796,CHEMBL1153581,HEL,,"Selectivity index, ratio of MCC for HEL cells to MIC50 for vaccinia virus",F
+CHEMBL1104282,CHEMBL1154855,HEL,Homo sapiens,Cytotoxicity against Vaccinia virus infected HEL cells by trypan blue exclusion method,A
+CHEMBL1107225,CHEMBL1156237,Vero,,"Selectivity index, ratio of CC50 for african green monkey Vero cells to EC50 for Vaccinia virus Elstree-Lister",T
+CHEMBL1107226,CHEMBL1156237,MT4,,"Selectivity index, ratio of CC50 for human MT4 cells to EC50 for Vaccinia virus Elstree-Lister",T
+CHEMBL1108217,CHEMBL1157820,CV-1,,"Therapeutic index, ratio of TC50 for african green monkey CV1 cells to EC50 for GFP-expressing Vaccinia virus WR infected in african green monkey CV1 cells",A
+CHEMBL1108218,CHEMBL1157820,HT-1080,,"Therapeutic index, ratio of TC50 for human HT1080 cells to EC50 for GFP-expressing Vaccinia virus WR infected in human HT1080 cells",A
+CHEMBL1216793,CHEMBL1212802,,,Binding affinity to plasmid DNA assessed as DNA unwinding in presence of vaccinia virus topoisomerase 1B by electrophoresis,B
+CHEMBL1776112,CHEMBL1773001,HFF,Homo sapiens,Cytotoxicity against human HFF cells infected with Vaccinia virus Copenhagen assessed as viable cells by neutral red uptake assay,A
+CHEMBL1776114,CHEMBL1773001,HFF,,"Selectivity index, ratio of CC50 for human HFF cells infected with Cowpox virus (Brighton Red) to EC50 for Vaccinia virus Copenhagen",T
+CHEMBL1777579,CHEMBL1772955,HFF,,"Selectivity index, ratio of CC50 for human HFF cells to EC50 for Vaccinia virus Copenhagen",T
+CHEMBL1777499,CHEMBL1773050,BSC-1,Chlorocebus aethiops,Cytotoxicity against african green monkey BSC1 cells infected with Vaccinia virus assessed as lactate dehydrogenase release after 20 hrs by microplate reader,A
+CHEMBL1777503,CHEMBL1773050,BSC-1,,"Selectivity index, CC50 for African green monkey BSC-1 cells to EC50 for Vaccinia virus",T
+CHEMBL1799716,CHEMBL1795274,Huh-7,,"Selectivity index, ratio of CC50 for human HuH7 cells to EC50 for Vaccinia virus",T
+CHEMBL1811398,CHEMBL1806434,HEL,,"Selectivity index, ratio CC50 for human HEL cells to EC50 for Vaccinia virus Lederle",T
+CHEMBL2061039,CHEMBL2057086,HeLa,,"Selectivity index, ratio of minimum compound concentration required to cause microscopically detectable alteration of normal cell morphology for human HeLa cells to EC50 for Vaccinia virus",T
+CHEMBL2067002,CHEMBL2062419,HEL,,"Selectivity index, ratio of cytotoxic CC50 for HEL cells to EC50 for Vaccinia virus Lederie",T
+CHEMBL3057632,CHEMBL3046360,HEL,,Selectivity ratio of MCC for human HEL cells to EC50 for Vaccinia virus,A
+CHEMBL2329381,CHEMBL2321734,BSC-1,Chlorocebus aethiops,Cytotoxicity against african green monkey BSC1 cells infected with Vaccinia virus-WR after 4 days,A
+CHEMBL2329382,CHEMBL2321734,BSC-1,Chlorocebus aethiops,Cytotoxicity against african green monkey BSC1 cells infected with Vaccinia virus-WR luciferase reporter virus v3 assessed as visible cytotoxic effect at 10 uM incubated for 30 mins prior to inoculation measured after 2 hrs by phase contrast microscopic analysis,A
+CHEMBL2329383,CHEMBL2321734,BSC-1,,"Selectivity index, ratio of CC50 for african green monkey BSC1 cells to IC50 for Vaccinia virus-WR",F
+CHEMBL2330527,CHEMBL2321819,BSC-1,,"Selectivity index, ratio of CC50 for African green monkey BSC1 cells to IC50 for Vaccinia virus WR",F
+CHEMBL3215017,CHEMBL1201862,,,PubChem BioAssay. qHTS for Stage-Specific Inhibitors of Vaccinia Orthopoxvirus: mCherry Reporter Primary qHTS.   (Class of assay: confirmatory) ,F
+CHEMBL3215270,CHEMBL1201862,,,PubChem BioAssay. qHTS for Stage-Specific Inhibitors of Vaccinia Orthopoxvirus: Venus Reporter Primary qHTS.   (Class of assay: confirmatory) ,F
+CHEMBL3230922,CHEMBL3227941,BSC-1,Chlorocebus aethiops,Cytotoxicity against Vaccinia virus infected African green monkey BSC1 cells at 100 ug/ml,A
+CHEMBL3230923,CHEMBL3227941,BSC-1,Chlorocebus aethiops,Cytotoxicity against Vaccinia virus infected African green monkey BSC1 cells at 50 ug/ml,A
+CHEMBL3230924,CHEMBL3227941,BSC-1,Chlorocebus aethiops,Cytotoxicity against Vaccinia virus infected African green monkey BSC1 cells at 25 ug/ml,A
+CHEMBL3271699,CHEMBL3259639,,Homo sapiens,Inhibition of Vaccinia H1-related phosphatase (unknown origin) by fluorescence emission assay in presence of 0.001% NP-40,B
+CHEMBL3271700,CHEMBL3259639,,Homo sapiens,Inhibition of Vaccinia H1-related phosphatase (unknown origin) at 100 uM by fluorescence emission assay in presence of 0.001% NP-40,B
+CHEMBL3271704,CHEMBL3259639,,Homo sapiens,Inhibition of Vaccinia H1-related phosphatase (unknown origin) by fluorescence emission assay,B
+CHEMBL3387291,CHEMBL3351456,HFF,,"Selectivity index, ratio of CC50 for HFF cells to IC50 for Vaccinia virus",F
+CHEMBL3363812,CHEMBL3351357,HFF,,"Selectivity index, ratio of CC50 for human HFF cells to EC50 for Vaccinia virus",T
+CHEMBL3363814,CHEMBL3351357,HFF,,"Selectivity index, ratio of CC50 for human HFF cells to EC90 for Vaccinia virus",T
+CHEMBL3771416,CHEMBL3769315,,,"Selectivity index, ratio of EC50 for vaccinia virus to EC50 for HCV",F
+CHEMBL3887699,CHEMBL3886410,,,"Inhibition Assay: A rapid plate DNA synthesis assay was performed using optimized conditions. Briefly, a 1.2:1 ratio of a 20-mer oligonucleotide primer (5′-GCGAATGAATGACCGCTGAC-3′, SEQ ID No. 1) and a 5′-end biotinylated 100-mer oligonucleotide template (5′-Biotin-AGCACTATTGACATTACAGAGTCGCCTTGGCTCTCTGGCTGTTCGTTGCGGGCTCCGCG TGCGTTGGCTTCGGTCGTCCCGTCAGCGGTCATTCATTGGC-3′) were annealed and loaded into a 96-well microtiter streptavidin-coated plate (Streptawell plates, Roche Applied Science, Indianapolis, Ind., USA) at 5 pmol/well. The wells were incubated at 37 C for 90 min, and washed with 100 L PBS. The reaction was conducted in low salt buffer (20 mM Tris-HCl pH 7.4, 3 mM MgCl2, 0.1 mM EDTA, 0.5 mM DTT, 2% glycerol, 40 ug/mL BSA, 5 uM dNTPs, 1 uM digoxigenin-11-2′-deoxyuridine-5′-triphosphate (DIG-dUTP, Roche Applied Science) with 1 μL vaccinia infected cell lysate or 1 uL of in vitro translated E9 DNA polymerase. The reaction plates were incubated at 37° C",B
+CHEMBL3888020,CHEMBL3886541,BSC-1,,"Viral Plaque Reduction Assay: African green monkey kidney BSC-1 cells were grown in Dulbecco's modified Eagle medium (DMEM) supplemented with 10% fetal bovine serum (FBS) (Gibco BRL Life Technologies, Gaithersburg, Md.) and 0.1% gentamicin antibiotic at 37° C. in a humidified 5% CO2 environment. Confluent BSC-1 cells were infected with vaccinia virus at an MOI of 0.005 in 48-well plate. The test compounds and control cidofovir were dissolved in DMSO and diluted with the medium. One hour post infection, 400 uL of the test compounds and control were added per well at concentrations ranging from 200 nM to 200 uM and incubated at 37° C. for 16 hours. A 5% solution of formaldehyde in PBS was used to fix the cells. After washing twice with PBS, the plate was stained with 0.2% crystal violet in 50% ethanol.",B
+CHEMBL4056707,CHEMBL4052722,,,"Selectivity index, ratio of CC50 for African green monkey CV1 cells to IC50 for Vaccinia virus LIVP harboring GFP infected in African green monkey CV1 cells",T
+CHEMBL4260274,CHEMBL4257560,Vero,,"Selectivity index, ratio of TC50 for African green monkey Vero cells to IC50 for Vaccinia virus Copenhagen",T
+CHEMBL4269069,CHEMBL4265975,,,"Selectivity index, ratio of MCC for HEL cells to EC50 for Vaccinia virus infected in HEL cells",T
+CHEMBL4368509,CHEMBL4364343,Vero,Mammarenavirus lassaense,Inhibition of Lassa virus GPC expressed in recombinant vaccinia virus infected in African green monkey Vero cells assessed as reduction in GPC-mediated cell-cell fusion at 50 nM by beta-galactosidase reporter gene assay relative to control,B
+CHEMBL4368516,CHEMBL4364343,Vero,Mammarenavirus lassaense,Inhibition of Lassa virus GPC expressed in recombinant vaccinia virus infected in African green monkey Vero cells assessed as reduction in GPC-mediated cell-cell fusion by beta-galactosidase reporter gene assay,B
+CHEMBL4369496,CHEMBL4368876,Vero,,"Selectivity index, ratio of CC50 for African green monkey Vero cells to IC50 for Vaccinia virus Copenhagen infected in African green monkey Vero cells",T
+CHEMBL4380177,CHEMBL4376857,HeLa,Homo sapiens,Inhibition of ERAP1 in human HeLa cells stably expressing H-2 Kb infected with vaccinia virus containing ss-LEQLE-SIINFEKL epitope assessed as suppression of ss-LEQLE-SIINFEKL binding to MHC1 H-2 Kb at cell surface by measuring reduction in 25D1 staining at 50 uM measured after 16 to 24 hrs by flow cytometric method,B
+CHEMBL4380178,CHEMBL4376857,HeLa,Homo sapiens,Inhibition of TAP1/2 in human HeLa cells stably expressing H-2 Kb infected with vaccinia virus containing Ub-SIINFEKL epitope assessed as suppression of Ub-SIINFEKL binding to MHC1 H-2 Kb at cell surface by measuring reduction in 25D1 staining at 50 uM measured after 16 to 24 hrs by flow cytometric method,B
+CHEMBL4380179,CHEMBL4376857,HeLa,Homo sapiens,Inhibition of ERAP1 in human HeLa cells stably expressing H-2 Kb infected with vaccinia virus containing ss-LEQLE-SIINFEKL epitope assessed as suppression of ss-LEQLE-SIINFEKL binding to MHC1 H-2 Kb at cell surface by measuring reduction in 25D1 staining measured after 16 to 24 hrs by flow cytometric method,B
+CHEMBL4380180,CHEMBL4376857,HeLa,Homo sapiens,Inhibition of TAP1/2 in human HeLa cells stably expressing H-2 Kb infected with vaccinia virus containing Ub-SIINFEKL epitope assessed as suppression of Ub-SIINFEKL binding to MHC1 H-2 Kb at cell surface by measuring reduction in 25D1 staining measured after 16 to 24 hrs by flow cytometric method,B
+CHEMBL4700295,CHEMBL4699424,Vero,,"Selectivity index, ratio of CC50 for African green monkey Vero cells to IC50 for Vaccinia virus Copenhagen infected in African green monkey Vero cells assessed as reduction in cell survival incubated for 4 days by neutral dye based colorimetric analysis",T
+CHEMBL4838275,CHEMBL4837211,Vero,,"Selectivity index, ratio of CC50 for African green monkey Vero cells to IC50 for inhibition of p37 in Vaccinia virus Copenhagen infected in African green monkey Vero cells",T
+CHEMBL4886396,CHEMBL4800727,,Homo sapiens,vaccinia related kinase 2  Millipore kinase panel,B
+CHEMBL5151874,CHEMBL5150003,,Homo sapiens,Inhibition of Recombinant vaccinia-expressed furin (unknown origin) using Pyr-RTKR-MCA as substrate and measured by fluorescence based assay,B
+CHEMBL5225280,CHEMBL5223146,Vero,,"Selectivity index, ratio of CC50 for African green monkey Vero cells to IC50 for Vaccinia virus Copenhagen infected in Vero cells",T
+CHEMBL5515755,CHEMBL5512660,,,"Selectivity index, ratio of CC50 for human HEL cells to EC50 for Vaccinia virus strain YS/R",T
+CHEMBL5731145,CHEMBL5725610,,Homo sapiens,"CPE reduction assay: The activity of cidofovir (CDV), cyclic cidofovir (cCDV), and 1-O-hexadecylpropanediol-3-cCDV (HDP-cCDV) were tested for antiviral activity in human foreskin fibroblasts infected with vaccinia virus or cowpox virus by measuring the dose dependent reduction in cytopathic effect (CPE). Preliminary vaccinia and cowpox EC50 values were determined in a CPE reduction assay in human foreskin fibroblast (HFF) cells.",B
+CHEMBL6092369,CHEMBL6092128,Vero,,"Selectivity index, ratio of CC50 for cytotoxicity against African green monkey Vero cells to IC50 for antiviral activity against Vaccinia virus Copenhagen infected in African green monkey Vero cells",T
+CHEMBL2076364,CHEMBL2073905,CHO,,TP_TRANSPORTER: inhibition of VACV uptake in PEPT1-expressing CHO cells,F
+CHEMBL2077287,CHEMBL2073905,CHO,,"TP_TRANSPORTER: inhibition of VACV uptake (VAVC: 20 uM, Ampicillin: 10000 uM) in PEPT1-expressing CHO cells",F
+CHEMBL2075132,CHEMBL2073905,CHO,,"TP_TRANSPORTER: inhibition of VACV uptake (VAVC: 20 uM, Ala-Ala: 10000 uM) in PEPT1-expressing CHO cells",F
+CHEMBL2075133,CHEMBL2073905,CHO,,"TP_TRANSPORTER: inhibition of VACV uptake (VACV: 20 uM, Leu-Leu: 10000 uM) in PEPT1-expressing CHO cells",F
+CHEMBL2075134,CHEMBL2073905,CHO,,"TP_TRANSPORTER: inhibition of VACV uptake (VACV: 20 uM, Gly-Leu: 10000 uM) in PEPT1-expressing CHO cells",F
+CHEMBL2075135,CHEMBL2073905,CHO,,"TP_TRANSPORTER: inhibition of VACV uptake (VACV: 20 uM, Gly-Gly: 10000 uM) in PEPT1-expressing CHO cells",F
+CHEMBL2075136,CHEMBL2073905,CHO,,"TP_TRANSPORTER: inhibition of VACV uptake (VACV: 20 uM, Cephalexin: 10000 uM) in PEPT1-expressing CHO cells",F
+CHEMBL2075137,CHEMBL2074356,Oocyte,Xenopus laevis,"TP_TRANSPORTER: inhibition of VACV uptake (VACV: 0.2 uM, Gly-Sar: 10000 uM) in Xenopus laevis oocytes",F
+CHEMBL2075138,CHEMBL2074356,Oocyte,Xenopus laevis,"TP_TRANSPORTER: inhibition of VACV uptake (VACV: 0.2 uM, Gly-Gly-Gly: 10000 uM) in Xenopus laevis oocytes",F
+CHEMBL2075139,CHEMBL2074356,Oocyte,Xenopus laevis,"TP_TRANSPORTER: inhibition of VACV uptake (VACV: 0.2 uM, Cefadroxil: 10000 uM) in Xenopus laevis oocytes",F
+CHEMBL2075140,CHEMBL2074356,Oocyte,Xenopus laevis,"TP_TRANSPORTER: inhibition of VACV uptake (VACV: 0.2 uM, Carnosine: 10000 uM) in Xenopus laevis oocytes",F

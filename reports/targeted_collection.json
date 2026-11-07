@@ -1,0 +1,9 @@
+{
+  "structures_requested": 812,
+  "structures_matched_in_chembl": 515,
+  "chembl_molecules": 532,
+  "activity_records": 49574,
+  "usable_measurements": 3531,
+  "molecules_with_si": 86,
+  "elapsed_seconds": 13.0
+}

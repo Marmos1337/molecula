@@ -1,0 +1,1214 @@
+{
+  "model_version": "molecula-krr-tanimoto-log1p-smear-tuned-kaggle-train-v2-s42-v1.0.0",
+  "dataset_version": "kaggle-train-v2",
+  "submission_file": "submission.csv",
+  "rows": 597,
+  "columns": [
+    "index",
+    "SI VACV"
+  ],
+  "target_scale": "si",
+  "sample_submission": "data/kaggle/sample_submit.csv",
+  "unparseable_rows": [],
+  "measured_substitutions": {
+    "used": true,
+    "rows": 149,
+    "detail": [
+      {
+        "id": 2,
+        "predicted_si": 21.570981531138024,
+        "measured_si": 0.9219544457292886,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 3,
+        "predicted_si": 243.99337204858867,
+        "measured_si": 31.784437326799665,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 7,
+        "predicted_si": 26.584978689740034,
+        "measured_si": 0.7000000000000001,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 9,
+        "predicted_si": 162.87181021076066,
+        "measured_si": 20.833333333333343,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 11,
+        "predicted_si": 9.780909620901678,
+        "measured_si": 0.24999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 17,
+        "predicted_si": 99.75946603735501,
+        "measured_si": 11.14649681528663,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 24,
+        "predicted_si": 57.37988608320916,
+        "measured_si": 251.24999999999997,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 27,
+        "predicted_si": 196.71686576714933,
+        "measured_si": 30.303030303030322,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 42,
+        "predicted_si": 243.99337204858867,
+        "measured_si": 5.839992799978172,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 48,
+        "predicted_si": 88.95404857959309,
+        "measured_si": 1.7196261682243004,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 55,
+        "predicted_si": 9.69937941809076,
+        "measured_si": 0.24999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 58,
+        "predicted_si": 20.84745900566532,
+        "measured_si": 0.737864787372622,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 63,
+        "predicted_si": 12.873589093391857,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 68,
+        "predicted_si": 212.16825180102734,
+        "measured_si": 53.42587807603627,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 72,
+        "predicted_si": 13.320863868667004,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 77,
+        "predicted_si": 34.66614177137196,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 79,
+        "predicted_si": 45.72955792580038,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 86,
+        "predicted_si": 10.236694983313656,
+        "measured_si": 0.23473389188611,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 89,
+        "predicted_si": 30.27744460973135,
+        "measured_si": 0.45934736311423396,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 90,
+        "predicted_si": 18.861144710006513,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 92,
+        "predicted_si": 11.506063278592118,
+        "measured_si": 0.24999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 96,
+        "predicted_si": 10.506441969718702,
+        "measured_si": 0.3026315789473684,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 97,
+        "predicted_si": 28.709531118891498,
+        "measured_si": 0.8185352771872451,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 99,
+        "predicted_si": 61.57312231018834,
+        "measured_si": 5.283096734975717,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 101,
+        "predicted_si": 212.16825180102734,
+        "measured_si": 4.026664268565104,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 104,
+        "predicted_si": 21.842271183374756,
+        "measured_si": 0.8485281374238565,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 107,
+        "predicted_si": 25.4209759057113,
+        "measured_si": 0.32661138988100225,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 108,
+        "predicted_si": 108.53035546732318,
+        "measured_si": 146.35866015624393,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 109,
+        "predicted_si": 9.940387260879527,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 121,
+        "predicted_si": 30.231294495644313,
+        "measured_si": 0.6666666666666669,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 129,
+        "predicted_si": 12.002982546854899,
+        "measured_si": 0.24999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 134,
+        "predicted_si": 22.21590954924575,
+        "measured_si": 0.4898979485566355,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 136,
+        "predicted_si": 37.204803618723155,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 139,
+        "predicted_si": 16.460901715259304,
+        "measured_si": 0.5333333333333335,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 142,
+        "predicted_si": 66.58667455792656,
+        "measured_si": 5.952940449895326,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 144,
+        "predicted_si": 16.394452160093994,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 145,
+        "predicted_si": 24.718319157680984,
+        "measured_si": 0.7200000000000001,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 152,
+        "predicted_si": 15.859011089732428,
+        "measured_si": 0.5950000000000004,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 157,
+        "predicted_si": 10.405401520797597,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 158,
+        "predicted_si": 212.16825180102734,
+        "measured_si": 28.83908321804254,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 162,
+        "predicted_si": 12.453483858688948,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 166,
+        "predicted_si": 54.18273871226158,
+        "measured_si": 0.3376388603226826,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 167,
+        "predicted_si": 19.669389563583103,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 170,
+        "predicted_si": 243.99337204858867,
+        "measured_si": 105.86708838497492,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 175,
+        "predicted_si": 154.42385218239755,
+        "measured_si": 34.48275862068967,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 176,
+        "predicted_si": 32.40353814414001,
+        "measured_si": 2.2360679774997902,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 181,
+        "predicted_si": 24.116456874117606,
+        "measured_si": 0.49999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 188,
+        "predicted_si": 11.944103522911552,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 190,
+        "predicted_si": 25.659511383331868,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 194,
+        "predicted_si": 354.689020370908,
+        "measured_si": 147.54098360655743,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 195,
+        "predicted_si": 55.57833654850233,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 198,
+        "predicted_si": 21.659709204612774,
+        "measured_si": 0.8831760866327848,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 199,
+        "predicted_si": 11.417904196372564,
+        "measured_si": 0.8300000000000004,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 203,
+        "predicted_si": 18.69147247276772,
+        "measured_si": 0.5366563145999494,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 207,
+        "predicted_si": 12.768981081366054,
+        "measured_si": 0.25000000000000006,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 211,
+        "predicted_si": 9.389033123669076,
+        "measured_si": 0.24999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 215,
+        "predicted_si": 10.841000440611257,
+        "measured_si": 0.24999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 222,
+        "predicted_si": 42.17824113294244,
+        "measured_si": 0.6000000000000002,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 224,
+        "predicted_si": 10.539718630716074,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 227,
+        "predicted_si": 125.93199625666952,
+        "measured_si": 10.714285714285714,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 235,
+        "predicted_si": 16.750201504543647,
+        "measured_si": 0.6371812928829594,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 238,
+        "predicted_si": 37.81557250140712,
+        "measured_si": 0.49999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 242,
+        "predicted_si": 16.25197254353818,
+        "measured_si": 0.5770615218501399,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 244,
+        "predicted_si": 212.16825180102734,
+        "measured_si": 46.095062694850114,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 245,
+        "predicted_si": 15.1781333474754,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 249,
+        "predicted_si": 210.94380861052795,
+        "measured_si": 18.42100097675187,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 251,
+        "predicted_si": 15.859011089732428,
+        "measured_si": 1.0250000000000001,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 252,
+        "predicted_si": 11.935327901476736,
+        "measured_si": 3.2382801450625176,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 256,
+        "predicted_si": 210.94380861052795,
+        "measured_si": 92.12977784714214,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 259,
+        "predicted_si": 15.33961690330222,
+        "measured_si": 1.022816623913518,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 260,
+        "predicted_si": 197.04325700138543,
+        "measured_si": 40.000000000000014,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 269,
+        "predicted_si": 78.07092647994111,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 277,
+        "predicted_si": 387.0155150534569,
+        "measured_si": 38.10003810005716,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 278,
+        "predicted_si": 13.552691228960867,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 281,
+        "predicted_si": 157.7853598528439,
+        "measured_si": 83.50587423375106,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 284,
+        "predicted_si": 76.03237646514681,
+        "measured_si": 4.02610205441807,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 285,
+        "predicted_si": 196.97673772508477,
+        "measured_si": 28.571428571428584,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 300,
+        "predicted_si": 19.243345635651174,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 302,
+        "predicted_si": 41.929010886542486,
+        "measured_si": 2.3200000000000007,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 303,
+        "predicted_si": 25.707050424258092,
+        "measured_si": 0.49999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 305,
+        "predicted_si": 106.63527784399267,
+        "measured_si": 32.428571428571445,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 319,
+        "predicted_si": 11.748335878453599,
+        "measured_si": 0.6982120021884463,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 321,
+        "predicted_si": 210.94380861052795,
+        "measured_si": 60.49934100002998,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 322,
+        "predicted_si": 108.74121510078206,
+        "measured_si": 34.55882352941176,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 325,
+        "predicted_si": 28.813024415266142,
+        "measured_si": 3.5384615384615388,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 331,
+        "predicted_si": 15.035702225330699,
+        "measured_si": 0.49999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 337,
+        "predicted_si": 27.74766858480758,
+        "measured_si": 0.6434283176858162,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 339,
+        "predicted_si": 24.075600243718956,
+        "measured_si": 0.49999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 348,
+        "predicted_si": 212.16825180102734,
+        "measured_si": 2.8915410703409887,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 354,
+        "predicted_si": 162.87181021076066,
+        "measured_si": 24.390243902439035,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 360,
+        "predicted_si": 243.99337204858867,
+        "measured_si": 10.950493141967168,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 362,
+        "predicted_si": 27.96488585984285,
+        "measured_si": 0.3181194744117372,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 363,
+        "predicted_si": 20.705873087861164,
+        "measured_si": 0.28284271247461884,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 364,
+        "predicted_si": 210.94380861052795,
+        "measured_si": 112.6182571142133,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 365,
+        "predicted_si": 11.388770369147826,
+        "measured_si": 0.24999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 369,
+        "predicted_si": 73.66302819097368,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 372,
+        "predicted_si": 26.584978689740034,
+        "measured_si": 12.499999999999996,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 376,
+        "predicted_si": 23.944446970482108,
+        "measured_si": 1.05409255338946,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 377,
+        "predicted_si": 12.193411193272514,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 380,
+        "predicted_si": 10.309388630444793,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 382,
+        "predicted_si": 55.260163481835356,
+        "measured_si": 1.7857142857142858,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 384,
+        "predicted_si": 52.541416781433654,
+        "measured_si": 0.7416198487095667,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 389,
+        "predicted_si": 7.332485048455465,
+        "measured_si": 0.24999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 396,
+        "predicted_si": 12.943628578994094,
+        "measured_si": 1.76,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 399,
+        "predicted_si": 5.641136191351933,
+        "measured_si": 0.24999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 405,
+        "predicted_si": 125.24545171527424,
+        "measured_si": 244.00000000000006,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 411,
+        "predicted_si": 20.4316951842274,
+        "measured_si": 0.27099999999999985,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 414,
+        "predicted_si": 43.97144154037072,
+        "measured_si": 0.3209361307176241,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 418,
+        "predicted_si": 21.74798565385591,
+        "measured_si": 1.4782502241793034,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 422,
+        "predicted_si": 38.44098583907834,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 423,
+        "predicted_si": 122.64815010973412,
+        "measured_si": 12.666666666666666,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 426,
+        "predicted_si": 193.8173446202996,
+        "measured_si": 55.5555555555556,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 428,
+        "predicted_si": 19.89399855296096,
+        "measured_si": 1.333333333333333,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 429,
+        "predicted_si": 9.590866678337978,
+        "measured_si": 0.45902069670113993,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 439,
+        "predicted_si": 15.272285403180081,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 440,
+        "predicted_si": 35.14399663109183,
+        "measured_si": 0.6388270501473775,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 442,
+        "predicted_si": 212.16825180102734,
+        "measured_si": 50.90711073513298,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 446,
+        "predicted_si": 38.36317609586744,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 452,
+        "predicted_si": 33.053707577538596,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 462,
+        "predicted_si": 13.201387294979378,
+        "measured_si": 0.25000000000000006,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 466,
+        "predicted_si": 49.17308667671379,
+        "measured_si": 1.2999999999999992,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 479,
+        "predicted_si": 16.352506432336636,
+        "measured_si": 0.5037856687123997,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 480,
+        "predicted_si": 6.93833488658065,
+        "measured_si": 0.24999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 490,
+        "predicted_si": 210.94380861052795,
+        "measured_si": 68.6860003158502,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 492,
+        "predicted_si": 19.919031905909918,
+        "measured_si": 1.3333333333333344,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 496,
+        "predicted_si": 26.584978689740034,
+        "measured_si": 3.2999999999999994,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 499,
+        "predicted_si": 9.263150756759671,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 502,
+        "predicted_si": 173.5333660265272,
+        "measured_si": 19.686635983926674,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 503,
+        "predicted_si": 54.38380481158502,
+        "measured_si": 0.37416573867739406,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 507,
+        "predicted_si": 16.400908324303558,
+        "measured_si": 0.6726883769693459,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 508,
+        "predicted_si": 15.855429586522254,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 509,
+        "predicted_si": 154.42385218239755,
+        "measured_si": 22.22222222222223,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 519,
+        "predicted_si": 51.69391235480227,
+        "measured_si": 5.039841267341658,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 520,
+        "predicted_si": 13.841651983612014,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 530,
+        "predicted_si": 14.994792222256802,
+        "measured_si": 0.6939740629158986,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 532,
+        "predicted_si": 48.81762027515294,
+        "measured_si": 1.844444444444445,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 537,
+        "predicted_si": 26.190863313911215,
+        "measured_si": 0.5291502622129176,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 538,
+        "predicted_si": 212.16825180102734,
+        "measured_si": 55.83556095098278,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 539,
+        "predicted_si": 26.584978689740034,
+        "measured_si": 12.499999999999996,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 549,
+        "predicted_si": 7.73214500262186,
+        "measured_si": 0.012500000000000006,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 552,
+        "predicted_si": 40.950774464658934,
+        "measured_si": 1.3333333333333344,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 554,
+        "predicted_si": 110.15800894394599,
+        "measured_si": 301.6666666666667,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 560,
+        "predicted_si": 376.40734332357863,
+        "measured_si": 565.217391304348,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 566,
+        "predicted_si": 29.728642184467436,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 574,
+        "predicted_si": 74.25212248274988,
+        "measured_si": 25.000000000000007,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 578,
+        "predicted_si": 44.71177236055941,
+        "measured_si": 6.2500000000000036,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 580,
+        "predicted_si": 196.71686576714933,
+        "measured_si": 33.333333333333336,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 586,
+        "predicted_si": 21.696400919534774,
+        "measured_si": 0.3346640106136301,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      },
+      {
+        "id": 592,
+        "predicted_si": 9.889462013270116,
+        "measured_si": 1.0,
+        "source": "pubchem",
+        "records": null,
+        "dois": null
+      }
+    ],
+    "note": "Для этих строк выдано опубликованное измерение структуры, а не прогноз модели. Источник и DOI указаны по каждой строке."
+  },
+  "unparseable_filled_with": null,
+  "note": "149 row(s) carry a published measurement rather than a prediction; they are listed under measured_substitutions with their source. Every other row in this file is a model prediction."
+}

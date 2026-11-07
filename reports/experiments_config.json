@@ -1,0 +1,52 @@
+{
+  "metric": "MSE против сырого SI (официальная метрика соревнования)",
+  "schemes": [
+    "molecule",
+    "scaffold",
+    "cluster",
+    "publication"
+  ],
+  "seeds": [
+    42,
+    2026,
+    7
+  ],
+  "folds": 5,
+  "train": "data/kaggle/train_v2.csv",
+  "external": "data/processed/dataset.csv",
+  "n_official_rows": 320,
+  "n_external_rows": 226,
+  "candidates": [
+    "const-zero",
+    "const-mean",
+    "const-median",
+    "ridge-raw",
+    "ridge-log1p",
+    "ridge-log1p-smear",
+    "krr-tanimoto-log1p",
+    "krr-tanimoto-log1p-smear",
+    "krr-tanimoto-log1p-smear-a0.1",
+    "krr-tanimoto-log1p-smear-a0.3",
+    "krr-tanimoto-log1p-smear-a3",
+    "krr-tanimoto-log1p-smear-a10",
+    "krr-tanimoto-log1p-smear-tuned",
+    "knn-tanimoto-raw",
+    "knn-tanimoto-log1p",
+    "svr-log1p",
+    "random-forest-raw",
+    "random-forest-log1p",
+    "random-forest-log1p-smear",
+    "extra-trees-raw",
+    "hist-boosting-raw",
+    "hist-boosting-log1p-smear",
+    "two-stage-forest",
+    "random-forest-log1p-smear+culture",
+    "random-forest-log1p-smear+chembl",
+    "lookup+random-forest-raw",
+    "lookup+random-forest-raw+chembl",
+    "random-forest-raw-clip99",
+    "random-forest-raw-clip95",
+    "two-stage-forest+chembl"
+  ],
+  "elapsed_seconds": 3719.8
+}

@@ -1,0 +1,11 @@
+# Pinned to what the reference run used (see reports/training_report.json -> config.python_packages)
+rdkit==2026.9.1
+scikit-learn==1.9.1
+pandas==3.1.1
+numpy==2.5.4
+scipy==1.18.1
+joblib==1.6.0
+fastapi==0.162.0
+uvicorn[standard]==0.54.0
+python-multipart==0.0.33
+httpx2==2.16.0

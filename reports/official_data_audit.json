@@ -1,0 +1,116 @@
+{
+  "train": {
+    "source": "data/kaggle/train_v2.csv",
+    "rows_in_file": 320,
+    "rows_kept": 320,
+    "rows_excluded": 0,
+    "unique_structures": 312,
+    "unique_skeletons": 311,
+    "unique_murcko_frameworks": 165,
+    "cultures": {
+      "vero": 162,
+      "hela": 28,
+      "other": 28,
+      "bsc": 27,
+      "human foreskin fibroblast": 25,
+      "hel": 22,
+      "prk": 15,
+      "lung fibroblast": 13
+    },
+    "target": {
+      "mean": 213.40025012836605,
+      "median": 1.8445,
+      "max": 36066.667,
+      "share_zero": 0.259375,
+      "share_above_1000": 0.021875,
+      "mse_of_constant_zero": 4300244.412520417,
+      "mse_of_constant_mean": 4254704.745765567
+    },
+    "forbidden_missingness_channel": {
+      "share_of_rows_with_ic50": 0.746875,
+      "agreement_with_si_above_zero": 0.99375,
+      "note": "Признак «IC50 указана» почти совпадает с «SI > 0», поэтому он не попадает ни в подготовленную таблицу, ни в признаки модели."
+    },
+    "duplicate_structures": 16,
+    "duplicate_detail": [
+      {
+        "inchikey": "HSWYVGGXLOFDLI-XHCNLMPISA-N",
+        "count": 2,
+        "min": 1.112,
+        "max": 102.887
+      },
+      {
+        "inchikey": "MXYMSCLKLRHABK-UHFFFAOYSA-N",
+        "count": 2,
+        "min": 78.276,
+        "max": 78.276
+      },
+      {
+        "inchikey": "OLFJAAPWKAVFKS-QAOKCCKXSA-N",
+        "count": 2,
+        "min": 43.478,
+        "max": 43.4782608695652
+      },
+      {
+        "inchikey": "PGAGSPWHPNHQCY-XUYNTYLMSA-N",
+        "count": 2,
+        "min": 135.135,
+        "max": 135.135135135135
+      },
+      {
+        "inchikey": "POTHHIDCXDXNSM-IOASZLSFSA-N",
+        "count": 2,
+        "min": 0.0,
+        "max": 39.984
+      },
+      {
+        "inchikey": "RGTBYNJLXMRUQN-XUYNTYLMSA-N",
+        "count": 2,
+        "min": 200.0,
+        "max": 200.0
+      },
+      {
+        "inchikey": "XQFRJNBWHJMXHO-RRKCRQDMSA-N",
+        "count": 2,
+        "min": 0.152,
+        "max": 11.905
+      },
+      {
+        "inchikey": "ZPZCRHNAIUYXKE-ZUISRVRFSA-N",
+        "count": 2,
+        "min": 45.4545454545455,
+        "max": 45.455
+      }
+    ]
+  },
+  "test": {
+    "source": "data/kaggle/test.csv",
+    "rows_in_file": 597,
+    "rows_kept": 597,
+    "rows_excluded": 0,
+    "unique_structures": 569,
+    "unique_skeletons": 554,
+    "unique_murcko_frameworks": 260,
+    "cultures": {
+      "vero": 301,
+      "other": 77,
+      "human foreskin fibroblast": 61,
+      "bsc": 46,
+      "hela": 43,
+      "hel": 34,
+      "prk": 22,
+      "lung fibroblast": 13
+    }
+  },
+  "shared_skeletons_train_test": 53,
+  "excluded": [],
+  "forbidden_columns": {
+    "columns": [
+      "CC50_uM",
+      "IC50_uM_VACV"
+    ],
+    "present_in_test_file": true,
+    "note": "SI = CC50 / IC50, поэтому обе колонки в test.csv дают ответ напрямую. Условие задачи запрещает их использовать, и ни один признак модели их не читает."
+  },
+  "zero_target_convention": "SI = 0 в обучающем наборе означает, что IC50 не установлена, а не измеренное нулевое отношение. Такие строки остаются в обучении, потому что метрика считается против этой же записи."
+}
